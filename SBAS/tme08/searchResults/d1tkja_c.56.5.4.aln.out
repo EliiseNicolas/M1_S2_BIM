@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1y0ya3c.56.5.4      -            256 d1tkja_c.56.5.4.aln  -            273   6.5e-80  263.7   1.6   1   1     1e-81   7.2e-80  263.5   1.6    14   271     2   255     1   256 0.99 -
+d1fnoa4c.56.5.4      -            296 d1tkja_c.56.5.4.aln  -            273   6.4e-78  257.1   0.0   1   1     1e-79   7.2e-78  257.0   0.0     1   272     1   295     1   296 0.99 -
+d1rtqa_c.56.5.4      -            291 d1tkja_c.56.5.4.aln  -            273   1.7e-70  232.8   0.0   1   1   2.7e-72   1.9e-70  232.6   0.0     2   272    12   290    11   291 0.99 -
+d1r3na1c.56.5.4      -            323 d1tkja_c.56.5.4.aln  -            273   1.8e-70  232.7   0.0   1   1   2.8e-72     2e-70  232.5   0.0     2   272     6   317     5   318 0.99 -
+d1z2la1c.56.5.4      -            294 d1tkja_c.56.5.4.aln  -            273   5.9e-69  227.7   0.0   1   1   9.2e-71   6.6e-69  227.6   0.0     2   273     5   294     4   294 0.99 -
+d1vgya1c.56.5.4      -            263 d1tkja_c.56.5.4.aln  -            273     2e-67  222.8   0.0   1   1     3e-69   2.2e-67  222.6   0.0    12   270     2   263     1   263 0.99 -
+d1cg2a1c.56.5.4      -            277 d1tkja_c.56.5.4.aln  -            273   2.9e-66  218.9   0.1   1   1   4.5e-68   3.2e-66  218.8   0.1     1   271     4   276     4   277 0.99 -
+d1y7ea2c.56.5.4      -            323 d1tkja_c.56.5.4.aln  -            273   5.8e-64  211.4   0.0   1   1   9.1e-66   6.6e-64  211.2   0.0     1   272     4   314     4   315 0.99 -
+d1lfwa1c.56.5.4      -            273 d1tkja_c.56.5.4.aln  -            273   1.2e-62  207.0   0.1   1   1   1.9e-64   1.4e-62  206.9   0.1     2   272     3   272     2   273 0.99 -
+d2grea2c.56.5.4      -            234 d1tkja_c.56.5.4.aln  -            273   6.6e-59  194.8   1.1   1   1     1e-60   7.5e-59  194.6   1.1    10   270     1   233     1   234 0.99 -
+d1tkja_c.56.5.4      -            277 d1tkja_c.56.5.4.aln  -            273    0.0019   12.9   0.0   1   1   5.4e-05    0.0038   11.9   0.0    59   141    60   140    34   145 0.67 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1tkja_c.56.5.4.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1tkja_c.56.5.4.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1tkja_c.56.5.4.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:43 2025
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2hoqa_c.108.1.0     -            237 d3fzqa_c.108.1.0.aln -            241   3.1e-61  202.2   0.3   1   1   3.5e-63   3.4e-61  202.0   0.3     2   239     1   225     1   227 0.98 -
+d2x4da_c.108.1.0     -            270 d3fzqa_c.108.1.0.aln -            241   9.1e-61  200.6   0.0   1   1     1e-62     1e-60  200.5   0.0     3   241    12   268    10   268 0.99 -
+d3qnma_c.108.1.0     -            231 d3fzqa_c.108.1.0.aln -            241   4.9e-60  198.2   0.0   1   1   5.6e-62   5.5e-60  198.1   0.0     2   239     2   231     1   231 0.99 -
+d2hx1a_c.108.1.0     -            284 d3fzqa_c.108.1.0.aln -            241   2.9e-57  189.1   0.2   1   1   3.3e-59   3.3e-57  189.0   0.2     1   232    12   281    12   284 0.99 -
+d3dnpa_c.108.1.0     -            275 d3fzqa_c.108.1.0.aln -            241   5.4e-57  188.3   0.6   1   1   6.1e-59     6e-57  188.1   0.6     4   241     2   266     1   266 0.99 -
+d2hi0a_c.108.1.0     -            240 d3fzqa_c.108.1.0.aln -            241   8.4e-50  164.7   0.0   1   1   9.9e-52   9.8e-50  164.5   0.0     1   240     2   239     2   240 0.97 -
+d2w43a_c.108.1.0     -            201 d3fzqa_c.108.1.0.aln -            241   1.6e-40  134.4   1.2   1   1   1.8e-42   1.7e-40  134.2   1.2     4   240     2   199     1   200 0.96 -
+d3fzqa_c.108.1.0     -            271 d3fzqa_c.108.1.0.aln -            241   1.3e-11   39.7   0.0   1   2   1.6e-11   1.6e-09   32.9   0.0     3    86     2    94     1   156 0.77 -
+d3fzqa_c.108.1.0     -            271 d3fzqa_c.108.1.0.aln -            241   1.3e-11   39.7   0.0   2   2    0.0057      0.56    4.9   0.0   184   239   207   264   202   266 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3fzqa_c.108.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d3fzqa_c.108.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3fzqa_c.108.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:31:06 2025
+# [ok]

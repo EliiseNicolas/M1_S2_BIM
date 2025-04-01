@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1vyra_c.1.4.1       -            363 d1ofda2c.1.4.1.aln   -            400  6.2e-102  336.6   0.2   1   1  7.9e-104  6.9e-102  336.5   0.2    22   378     2   363     1   363 0.98 -
+d2e6fa_c.1.4.1       -            312 d1ofda2c.1.4.1.aln   -            400   5.7e-95  313.7   0.0   1   1   7.1e-97   6.3e-95  313.6   0.0    55   374     3   311     1   312 0.99 -
+d1p4ca_c.1.4.1       -            353 d1ofda2c.1.4.1.aln   -            400   2.7e-80  265.4   0.0   1   1   3.4e-82     3e-80  265.2   0.0    25   375     2   352     1   353 0.98 -
+d1djqa1c.1.4.1       -            340 d1ofda2c.1.4.1.aln   -            400   7.4e-74  244.2   0.0   1   1   9.4e-76   8.2e-74  244.0   0.0    16   374     1   340     1   340 0.99 -
+d1ep3a_c.1.4.1       -            311 d1ofda2c.1.4.1.aln   -            400   3.9e-62  205.6   0.1   1   1     5e-64   4.3e-62  205.4   0.1    50   375     2   309     1   311 0.98 -
+d1gtea2c.1.4.1       -            312 d1ofda2c.1.4.1.aln   -            400   8.1e-61  201.2   0.0   1   1     1e-62     9e-61  201.1   0.0    55   362     1   311     1   312 0.99 -
+d1p0ka_c.1.4.1       -            329 d1ofda2c.1.4.1.aln   -            400     9e-61  201.1   0.1   1   1   1.1e-62     1e-60  200.9   0.1    58   395     1   328     1   329 0.99 -
+d1vhna_c.1.4.1       -            305 d1ofda2c.1.4.1.aln   -            400   2.9e-50  166.5   0.0   1   1   3.7e-52   3.2e-50  166.3   0.0    56   375     5   303     1   305 0.98 -
+d1ofda2c.1.4.1       -            809 d1ofda2c.1.4.1.aln   -            400   2.4e-14   48.2   0.0   1   1     5e-16   4.4e-14   47.4   0.0   190   380   508   778   504   790 0.96 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1ofda2c.1.4.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1ofda2c.1.4.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1ofda2c.1.4.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:38 2025
+# [ok]

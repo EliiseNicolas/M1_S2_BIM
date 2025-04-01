@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2dkja_c.67.1.4      -            402 d1zoda_c.67.1.4.aln  -            403  3.8e-108  357.1   0.0   1   1  6.8e-110  4.5e-108  356.8   0.0    16   393     3   380     1   387 0.99 -
+d1vefa1c.67.1.4      -            387 d1zoda_c.67.1.4.aln  -            403   1.8e-99  328.5   0.0   1   1  3.1e-101     2e-99  328.3   0.0     1   399     1   385     1   387 0.98 -
+d3piua_c.67.1.4      -            416 d1zoda_c.67.1.4.aln  -            403   1.6e-96  318.8   0.0   1   1   2.7e-98   1.8e-96  318.6   0.0     1   402     6   413     6   414 1.00 -
+d1bs0a_c.67.1.4      -            383 d1zoda_c.67.1.4.aln  -            403   3.4e-85  281.5   0.0   1   1   5.8e-87   3.8e-85  281.3   0.0     1   398     2   381     2   383 0.99 -
+d1w23a_c.67.1.4      -            360 d1zoda_c.67.1.4.aln  -            403   6.8e-84  277.2   0.1   1   1   1.2e-85   7.6e-84  277.1   0.1     9   398     2   359     1   360 0.99 -
+d1ohwa_c.67.1.4      -            461 d1zoda_c.67.1.4.aln  -            403   3.5e-83  274.9   0.0   1   1     6e-85   3.9e-83  274.7   0.0     2   403    18   461    17   461 0.98 -
+d2bwna1c.67.1.4      -            396 d1zoda_c.67.1.4.aln  -            403   4.1e-83  274.6   0.1   1   1   6.9e-85   4.5e-83  274.5   0.1     2   397    10   393     9   396 0.97 -
+d1o69a_c.67.1.4      -            374 d1zoda_c.67.1.4.aln  -            403   1.4e-74  246.5   0.0   1   1   2.4e-76   1.6e-74  246.3   0.0    15   400     2   373     1   374 0.99 -
+d2fnua_c.67.1.4      -            373 d1zoda_c.67.1.4.aln  -            403   1.1e-64  214.0   0.1   1   1   1.8e-66   1.2e-64  213.8   0.1     4   403     2   372     1   372 0.99 -
+d2epja_c.67.1.0      -            426 d1zoda_c.67.1.4.aln  -            403   3.1e-49  163.1   0.4   1   1   5.9e-51   3.9e-49  162.7   0.4    11   375    22   395    19   415 0.94 -
+d1zoda_c.67.1.4      -            431 d1zoda_c.67.1.4.aln  -            403   1.2e-26   88.7   0.0   1   1   9.9e-28   6.5e-26   86.3   0.0    20   345    24   365    21   420 0.85 -
+d2c81a_c.67.1.0      -            409 d1zoda_c.67.1.4.aln  -            403   4.7e-14   47.2   0.0   1   1   9.8e-16   6.4e-14   46.8   0.0    61   209    62   200    41   204 0.92 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1zoda_c.67.1.4.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1zoda_c.67.1.4.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1zoda_c.67.1.4.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:52 2025
+# [ok]

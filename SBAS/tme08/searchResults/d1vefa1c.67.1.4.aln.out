@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2dkja_c.67.1.4      -            402 d1vefa1c.67.1.4.aln  -            415  1.4e-116  385.2   0.0   1   1  2.5e-118  1.6e-116  385.0   0.0     8   406     3   394     1   400 0.98 -
+d3piua_c.67.1.4      -            416 d1vefa1c.67.1.4.aln  -            415     1e-95  316.5   0.0   1   1   1.7e-97   1.1e-95  316.3   0.0     9   414     2   409     1   410 0.99 -
+d1zoda_c.67.1.4      -            431 d1vefa1c.67.1.4.aln  -            415     2e-95  315.6   0.0   1   1   3.6e-97   2.4e-95  315.3   0.0     6   408     2   418     1   423 0.99 -
+d1ohwa_c.67.1.4      -            461 d1vefa1c.67.1.4.aln  -            415   4.2e-86  284.8   0.0   1   1   7.1e-88   4.7e-86  284.7   0.0     3   408    11   460     9   461 0.99 -
+d1w23a_c.67.1.4      -            360 d1vefa1c.67.1.4.aln  -            415   2.8e-83  275.5   0.0   1   1   4.7e-85   3.1e-83  275.4   0.0    24   414     3   359     1   360 0.99 -
+d2bwna1c.67.1.4      -            396 d1vefa1c.67.1.4.aln  -            415   3.1e-77  255.6   0.1   1   1   5.4e-79   3.5e-77  255.4   0.1     2   398    18   395    17   396 0.98 -
+d1o69a_c.67.1.4      -            374 d1vefa1c.67.1.4.aln  -            415   2.5e-74  246.0   0.0   1   1   4.3e-76   2.8e-74  245.9   0.0    25   405     1   372     1   374 0.99 -
+d1bs0a_c.67.1.4      -            383 d1vefa1c.67.1.4.aln  -            415   2.3e-73  242.9   0.0   1   1   3.9e-75   2.6e-73  242.7   0.0     2   396    11   380    10   383 0.98 -
+d2fnua_c.67.1.4      -            373 d1vefa1c.67.1.4.aln  -            415   1.7e-68  226.8   0.0   1   1   2.9e-70   1.9e-68  226.6   0.0    15   410     2   373     1   373 0.99 -
+d1vefa1c.67.1.4      -            387 d1vefa1c.67.1.4.aln  -            415   1.5e-49  164.5   0.0   1   1   3.3e-51   2.2e-49  163.9   0.0    27   356    19   338    11   348 0.90 -
+d2epja_c.67.1.0      -            426 d1vefa1c.67.1.4.aln  -            415   6.1e-48  159.1   0.4   1   1   1.2e-49   7.6e-48  158.8   0.4    20   391    23   395     8   411 0.93 -
+d2c81a_c.67.1.0      -            409 d1vefa1c.67.1.4.aln  -            415   5.2e-09   30.9   0.1   1   1   1.1e-10   7.1e-09   30.4   0.1    70   218    60   199    40   206 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1vefa1c.67.1.4.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1vefa1c.67.1.4.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1vefa1c.67.1.4.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:46 2025
+# [ok]

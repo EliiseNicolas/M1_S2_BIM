@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3bmva4c.1.8.1       -            406 d1wdpa_c.1.8.1.aln   -            411  4.5e-109  361.0  18.9   1   1  1.3e-110    5e-109  360.8  18.9     3   410     6   406     4   406 0.96 -
+d1e43a2c.1.8.1       -            393 d1wdpa_c.1.8.1.aln   -            411   4.5e-96  318.1  18.5   1   1   1.3e-97   5.1e-96  318.0  18.5    11   404     2   393     1   393 0.97 -
+d2guya2c.1.8.1       -            381 d1wdpa_c.1.8.1.aln   -            411   7.2e-93  307.6  10.7   1   1     2e-94   7.9e-93  307.5  10.7     5   405     2   372     1   378 0.95 -
+d1wzaa2c.1.8.1       -            409 d1wdpa_c.1.8.1.aln   -            411   1.6e-85  283.4  19.3   1   1   4.7e-87   1.8e-85  283.2  19.3     9   409     2   408     1   409 0.96 -
+d1h3ga3c.1.8.1       -            422 d1wdpa_c.1.8.1.aln   -            411     3e-85  282.5  13.9   1   1   8.3e-87   3.3e-85  282.4  13.9     6   410     6   421     1   422 0.96 -
+d1ji1a3c.1.8.1       -            432 d1wdpa_c.1.8.1.aln   -            411   3.8e-84  278.9  25.8   1   1   1.1e-85   4.3e-84  278.7  25.8     3   410     2   431     1   432 0.98 -
+d1uoka2c.1.8.1       -            479 d1wdpa_c.1.8.1.aln   -            411   5.3e-84  278.4  19.5   1   1   1.6e-85   6.5e-84  278.1  19.5     4   409     1   478     1   479 0.97 -
+d1ht6a2c.1.8.1       -            347 d1wdpa_c.1.8.1.aln   -            411   5.8e-73  242.0  10.6   1   1   1.6e-74   6.5e-73  241.9  10.6    12   405     2   346     1   347 0.96 -
+d1g5aa2c.1.8.1       -            554 d1wdpa_c.1.8.1.aln   -            411   1.3e-65  217.8   8.9   1   1   3.9e-67   1.5e-65  217.6   8.9    29   410    51   553    24   554 0.92 -
+d1bf2a3c.1.8.1       -            475 d1wdpa_c.1.8.1.aln   -            411   7.8e-65  215.3  22.0   1   1   4.3e-66   1.7e-64  214.2  22.0     3   409     8   471     6   473 0.97 -
+d1x1na1c.1.8.1       -            523 d1wdpa_c.1.8.1.aln   -            411   2.3e-63  210.4   0.2   1   1   6.7e-65   2.7e-63  210.2   0.2     2   410    29   522    28   523 0.97 -
+d1ua7a2c.1.8.1       -            344 d1wdpa_c.1.8.1.aln   -            411   4.7e-60  199.5  13.4   1   1   1.5e-61   6.1e-60  199.2  13.4    31   406     8   341     1   344 0.94 -
+d2bhua3c.1.8.1       -            420 d1wdpa_c.1.8.1.aln   -            411   2.6e-57  190.5   5.9   1   1   7.5e-59     3e-57  190.3   5.9     4   410     7   419     4   420 0.96 -
+d1m7xa3c.1.8.1       -            396 d1wdpa_c.1.8.1.aln   -            411   6.6e-53  176.0  22.4   1   1   1.8e-54   7.3e-53  175.8  22.4     5   410     5   392     1   393 0.96 -
+d2fhfa5c.1.8.1       -            563 d1wdpa_c.1.8.1.aln   -            411   2.1e-50  167.7   1.3   1   1     1e-51   4.1e-50  166.8   1.3    22   410    54   562    34   563 0.94 -
+d1gjwa2c.1.8.1       -            572 d1wdpa_c.1.8.1.aln   -            411     2e-46  154.6   0.0   1   1   5.7e-48   2.2e-46  154.5   0.0     2   409    30   570    29   572 0.97 -
+d1r7aa2c.1.8.1       -            434 d1wdpa_c.1.8.1.aln   -            411   3.4e-45  150.6   0.3   1   1   9.5e-47   3.8e-45  150.4   0.3     9   410     1   431     1   432 0.99 -
+d1vema2c.1.8.1       -            417 d1wdpa_c.1.8.1.aln   -            411   3.3e-44  147.3   8.8   1   1   9.3e-46   3.7e-44  147.2   8.8     3   398    11   414     9   417 0.95 -
+d1wdpa_c.1.8.1       -            493 d1wdpa_c.1.8.1.aln   -            411   8.3e-44  146.0   2.2   1   1   2.5e-45     1e-43  145.7   2.2     2   371    13   444    12   464 0.96 -
+d1kwga2c.1.8.1       -            393 d1wdpa_c.1.8.1.aln   -            411   4.7e-43  143.5   0.3   1   1   1.3e-44   5.2e-43  143.4   0.3     1   410     3   392     3   393 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1wdpa_c.1.8.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1wdpa_c.1.8.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1wdpa_c.1.8.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:48 2025
+# [ok]

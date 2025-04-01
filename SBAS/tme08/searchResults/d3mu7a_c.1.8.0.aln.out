@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3mu7a_c.1.8.0       -            273 d3mu7a_c.1.8.0.aln   -            329   4.9e-63  208.8   0.0   1   1   2.1e-65   5.5e-63  208.6   0.0    12   317     3   271     1   273 0.98 -
+d2waga_c.1.8.0       -            217 d3mu7a_c.1.8.0.aln   -            329   1.8e-57  190.5   6.5   1   1   7.7e-60     2e-57  190.3   6.5     8   254     1   215     1   217 0.98 -
+d2x8ra_c.1.8.0       -            209 d3mu7a_c.1.8.0.aln   -            329   9.7e-53  174.9   2.9   1   1   4.3e-55   1.1e-52  174.7   2.9    21   248     2   205     1   208 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3mu7a_c.1.8.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d3mu7a_c.1.8.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3mu7a_c.1.8.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:31:07 2025
+# [ok]

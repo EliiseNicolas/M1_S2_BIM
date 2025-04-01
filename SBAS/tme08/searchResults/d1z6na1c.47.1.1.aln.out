@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2i4aa_c.47.1.1      -            107 d1z6na1c.47.1.1.aln  -            110   5.7e-36  118.1   0.0   1   1   1.2e-37   6.1e-36  118.0   0.0     4   107     2   105     1   107 0.97 -
+d1r26a_c.47.1.1      -            113 d1z6na1c.47.1.1.aln  -            110   4.8e-30   99.1   0.0   1   1     1e-31     5e-30   99.0   0.0     4   107     8   110     5   113 0.95 -
+d1zmaa1c.47.1.1      -            115 d1z6na1c.47.1.1.aln  -            110   1.1e-20   68.9   0.0   1   1   2.5e-22   1.2e-20   68.8   0.0     3   105     7   113     5   115 0.97 -
+d1sena_c.47.1.1      -            135 d1z6na1c.47.1.1.aln  -            110     2e-19   64.9   0.0   1   1   4.7e-21   2.3e-19   64.7   0.0     3   109     6   119     4   120 0.96 -
+d2fwha_c.47.1.1      -            117 d1z6na1c.47.1.1.aln  -            110   7.9e-19   63.0   0.1   1   1   1.7e-20   8.5e-19   62.9   0.1     3   106     3   115     1   117 0.96 -
+d1wjka_c.47.1.1      -            100 d1z6na1c.47.1.1.aln  -            110   3.4e-18   60.9   0.0   1   1   7.2e-20   3.6e-18   60.9   0.0    10   106     3    96     1   100 0.93 -
+d1abaa_c.47.1.1      -             87 d1z6na1c.47.1.1.aln  -            110     3e-16   54.7   0.0   1   1   6.4e-18   3.2e-16   54.6   0.0    22   107     2    86     1    87 0.96 -
+d3qmxa_c.47.1.0      -             99 d1z6na1c.47.1.1.aln  -            110   6.6e-14   47.1   0.0   1   1   1.5e-15   7.2e-14   47.0   0.0    23   107    20    98     4    99 0.86 -
+d3gnja_c.47.1.0      -            111 d1z6na1c.47.1.1.aln  -            110   2.4e-13   45.3   0.1   1   1   5.6e-15   2.8e-13   45.1   0.1     8    98     8    98     3   111 0.84 -
+d1iloa_c.47.1.1      -             77 d1z6na1c.47.1.1.aln  -            110     8e-13   43.6   0.0   1   1   1.7e-14   8.5e-13   43.6   0.0    24   101     1    75     1    77 0.93 -
+d1z6na1c.47.1.1      -            166 d1z6na1c.47.1.1.aln  -            110   5.7e-12   40.9   0.0   1   1   1.4e-13     7e-12   40.6   0.0     3   107    35   145    33   148 0.84 -
+d2hzfa_c.47.1.0      -            110 d1z6na1c.47.1.1.aln  -            110   3.8e-10   35.0   0.0   1   1   9.4e-12   4.6e-10   34.7   0.0     6    92     3    88     1    95 0.90 -
+d2wcia_c.47.1.0      -            113 d1z6na1c.47.1.1.aln  -            110   1.6e-08   29.8   0.0   1   1   3.6e-10   1.8e-08   29.6   0.0    33   103    29    97     7   106 0.93 -
+d1ttza_c.47.1.1      -             75 d1z6na1c.47.1.1.aln  -            110   2.3e-08   29.3   0.0   1   1   6.3e-10   3.1e-08   28.9   0.0    26   104     2    73     1    74 0.84 -
+d3feua_c.47.1.0      -            183 d1z6na1c.47.1.1.aln  -            110   3.7e-07   25.4   0.0   1   2   0.00081      0.04    9.2   0.0    29    53    27    51     8    70 0.84 -
+d3feua_c.47.1.0      -            183 d1z6na1c.47.1.1.aln  -            110   3.7e-07   25.4   0.0   2   2   2.3e-05    0.0011   14.2   0.0    56    90   130   167   121   182 0.75 -
+d3h93a_c.47.1.0      -            192 d1z6na1c.47.1.1.aln  -            110     0.001   14.3   0.0   1   2     0.065       3.2    3.1   0.0    33    58    36    61    22    65 0.81 -
+d3h93a_c.47.1.0      -            192 d1z6na1c.47.1.1.aln  -            110     0.001   14.3   0.0   2   2   0.00099     0.049    8.9   0.0    61    85   137   161   122   171 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1z6na1c.47.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1z6na1c.47.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1z6na1c.47.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:52 2025
+# [ok]

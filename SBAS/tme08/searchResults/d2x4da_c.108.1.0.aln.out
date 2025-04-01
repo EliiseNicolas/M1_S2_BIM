@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2hx1a_c.108.1.0     -            284 d2x4da_c.108.1.0.aln -            249   1.2e-62  207.0   0.4   1   1   1.4e-64   1.3e-62  206.9   0.4     1   242    12   281    12   284 0.99 -
+d3fzqa_c.108.1.0     -            271 d2x4da_c.108.1.0.aln -            249   1.2e-62  207.0   3.4   1   1   1.4e-64   1.4e-62  206.8   3.4     3   248     2   263     1   264 0.99 -
+d3qnma_c.108.1.0     -            231 d2x4da_c.108.1.0.aln -            249   1.4e-59  197.0   0.0   1   1   1.6e-61   1.6e-59  196.8   0.0     2   245     2   230     1   231 0.99 -
+d2hi0a_c.108.1.0     -            240 d2x4da_c.108.1.0.aln -            249   6.6e-58  191.5   0.0   1   1   7.5e-60   7.4e-58  191.4   0.0     1   246     2   238     2   240 0.99 -
+d2hoqa_c.108.1.0     -            237 d2x4da_c.108.1.0.aln -            249     2e-57  189.9   0.2   1   1   2.3e-59   2.3e-57  189.8   0.2     2   248     1   227     1   228 0.98 -
+d3dnpa_c.108.1.0     -            275 d2x4da_c.108.1.0.aln -            249   6.4e-56  185.0   0.6   1   1   7.2e-58   7.1e-56  184.8   0.6     4   249     2   264     1   264 0.99 -
+d2w43a_c.108.1.0     -            201 d2x4da_c.108.1.0.aln -            249   6.6e-41  135.8   1.8   1   1   2.7e-42   2.7e-40  133.8   1.8     4   248     2   200     1   201 0.98 -
+d2x4da_c.108.1.0     -            270 d2x4da_c.108.1.0.aln -            249   9.8e-19   63.2   0.0   1   1   2.2e-20   2.2e-18   62.1   0.0     4   217    13   238    11   264 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2x4da_c.108.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d2x4da_c.108.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2x4da_c.108.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:31:04 2025
+# [ok]

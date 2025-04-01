@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ofda2c.1.4.1       -            809 d1vhna_c.1.4.1.aln   -            668  1.1e-262  868.9   0.0   1   1  1.4e-264  1.3e-262  868.7   0.0     1   668     1   809     1   809 1.00 -
+d1vyra_c.1.4.1       -            363 d1vhna_c.1.4.1.aln   -            668   4.2e-95  315.1   0.0   1   1   5.3e-97   4.7e-95  315.0   0.0   259   635     1   363     1   363 0.97 -
+d2e6fa_c.1.4.1       -            312 d1vhna_c.1.4.1.aln   -            668   3.8e-85  282.2   0.0   1   1   4.8e-87   4.2e-85  282.1   0.0   311   631     2   311     1   312 0.99 -
+d1djqa1c.1.4.1       -            340 d1vhna_c.1.4.1.aln   -            668   6.3e-75  248.4   0.0   1   1     8e-77     7e-75  248.3   0.0   260   610     2   338     1   340 0.98 -
+d1p4ca_c.1.4.1       -            353 d1vhna_c.1.4.1.aln   -            668   1.1e-73  244.3   0.0   1   1   1.5e-75   1.3e-73  244.1   0.0   280   632     1   352     1   353 0.98 -
+d1ep3a_c.1.4.1       -            311 d1vhna_c.1.4.1.aln   -            668   1.1e-61  204.7   0.0   1   1   1.4e-63   1.2e-61  204.5   0.0   307   633     2   310     1   311 0.97 -
+d1gtea2c.1.4.1       -            312 d1vhna_c.1.4.1.aln   -            668   2.5e-56  187.0   0.0   1   1   3.1e-58   2.7e-56  186.9   0.0   313   619     2   311     1   312 0.96 -
+d1p0ka_c.1.4.1       -            329 d1vhna_c.1.4.1.aln   -            668   1.2e-52  174.8   0.1   1   1   1.5e-54   1.3e-52  174.7   0.1   315   652     2   328     1   329 0.96 -
+d1vhna_c.1.4.1       -            305 d1vhna_c.1.4.1.aln   -            668   6.3e-05   17.1   0.0   1   1     1e-06     9e-05   16.6   0.0   523   613   147   229   134   237 0.87 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1vhna_c.1.4.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1vhna_c.1.4.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1vhna_c.1.4.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:46 2025
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1euza1c.2.1.7       -            239 d1gpja2c.2.1.7.aln   -            228   1.8e-79  261.7   4.0   1   1   5.2e-81   2.1e-79  261.6   4.0     1   228     2   238     2   238 0.98 -
+d3mw9a1c.2.1.7       -            293 d1gpja2c.2.1.7.aln   -            228   3.3e-69  228.2   0.0   1   1     1e-70   3.9e-69  227.9   0.0     4   227     1   291     1   292 0.99 -
+d1o0sa1c.2.1.7       -            308 d1gpja2c.2.1.7.aln   -            228   1.5e-64  213.0   0.6   1   1   4.2e-66   1.7e-64  212.8   0.6     1   228     2   287     2   287 1.00 -
+d1bgva1c.2.1.7       -            255 d1gpja2c.2.1.7.aln   -            228   2.1e-63  209.2   4.4   1   1   5.9e-65   2.3e-63  209.0   4.4     1   228     6   255     6   255 0.99 -
+d1c1da1c.2.1.7       -            201 d1gpja2c.2.1.7.aln   -            228   8.9e-49  161.3   3.4   1   1   2.5e-50   9.7e-49  161.2   3.4     7   209     2   199     1   201 0.96 -
+d1vl6a1c.2.1.7       -            222 d1gpja2c.2.1.7.aln   -            228   1.8e-48  160.3   0.3   1   1     5e-50     2e-48  160.2   0.3     6   227     2   221     1   222 0.98 -
+d1nyta1c.2.1.7       -            170 d1gpja2c.2.1.7.aln   -            228   2.8e-36  120.5   0.0   1   1   7.7e-38     3e-36  120.3   0.0    16   206     1   167     1   170 0.94 -
+d1luaa1c.2.1.7       -            191 d1gpja2c.2.1.7.aln   -            228   1.1e-32  108.7   6.9   1   1   3.1e-34   1.2e-32  108.6   6.9    13   213     3   191     1   191 0.95 -
+d1edza1c.2.1.7       -            171 d1gpja2c.2.1.7.aln   -            228   9.7e-28   92.5   0.0   1   1   2.7e-29   1.1e-27   92.4   0.0    22   207     2   170     1   171 0.97 -
+d1npya1c.2.1.7       -            167 d1gpja2c.2.1.7.aln   -            228   2.9e-27   90.9   3.0   1   1   8.1e-29   3.2e-27   90.8   3.0    17   208     2   166     1   167 0.96 -
+d1gpja2c.2.1.7       -            159 d1gpja2c.2.1.7.aln   -            228   4.9e-05   18.3   0.1   1   1   1.3e-06   5.3e-05   18.1   0.1    23   110    15    90     4   138 0.67 -
+d1cf2o1c.2.1.3       -            172 d1gpja2c.2.1.7.aln   -            228   6.1e-05   17.9   0.9   1   1   2.4e-06   9.5e-05   17.3   0.9    34   103     2    79     1   113 0.61 -
+d1pl8a2c.2.1.1       -            171 d1gpja2c.2.1.7.aln   -            228   0.00049   15.0   1.4   1   1   1.6e-05   0.00063   14.6   1.2    21    84    16    78    13   122 0.81 -
+d1vj0a2c.2.1.1       -            182 d1gpja2c.2.1.7.aln   -            228   0.00059   14.7   0.0   1   1   1.8e-05   0.00073   14.4   0.0    20    89    16    85     7   126 0.75 -
+d1v59a1c.3.1.5       -            234 d1gpja2c.2.1.7.aln   -            228   0.00078   14.3   0.7   1   1   3.2e-05    0.0013   13.6   0.7    34   112     6   106     1   159 0.64 -
+d1h2ba2c.2.1.1       -            172 d1gpja2c.2.1.7.aln   -            228     0.001   13.9   1.1   1   1   3.4e-05    0.0013   13.5   1.1    22    95    22    95    13   114 0.82 -
+d1kola2c.2.1.1       -            195 d1gpja2c.2.1.7.aln   -            228    0.0018   13.1   0.2   1   1   5.7e-05    0.0023   12.8   0.2    33    76    26    63    18   128 0.76 -
+d2jhfa2c.2.1.1       -            176 d1gpja2c.2.1.7.aln   -            228    0.0031   12.4   0.6   1   1    0.0001    0.0041   12.0   0.6    31    79    27    75     7    94 0.77 -
+d1k0ia1c.3.1.2       -            293 d1gpja2c.2.1.7.aln   -            228    0.0072   11.2   0.7   1   1    0.0021     0.082    7.7   0.7    35    69     4    63     2   159 0.71 -
+d2gv8a1c.3.1.5       -            336 d1gpja2c.2.1.7.aln   -            228    0.0085   10.9   0.0   1   1   0.00031     0.012   10.4   0.0    35    68     6    39     3    71 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1gpja2c.2.1.7.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1gpja2c.2.1.7.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1gpja2c.2.1.7.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:30 2025
+# [ok]

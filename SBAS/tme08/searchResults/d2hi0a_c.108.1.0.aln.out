@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2hoqa_c.108.1.0     -            237 d2hi0a_c.108.1.0.aln -            240   4.9e-60  198.6   0.2   1   1   5.7e-62   5.7e-60  198.4   0.2     2   237     1   225     1   228 0.98 -
+d3fzqa_c.108.1.0     -            271 d2hi0a_c.108.1.0.aln -            240     4e-59  195.7   3.7   1   1   4.5e-61   4.5e-59  195.5   3.7     3   239     2   266     1   267 0.99 -
+d3qnma_c.108.1.0     -            231 d2hi0a_c.108.1.0.aln -            240   7.5e-58  191.5   0.0   1   1   8.4e-60   8.3e-58  191.3   0.0     2   237     2   231     1   231 0.99 -
+d2x4da_c.108.1.0     -            270 d2hi0a_c.108.1.0.aln -            240     3e-56  186.2   0.0   1   1   3.3e-58   3.3e-56  186.1   0.0     3   239    12   268    10   269 0.99 -
+d2hx1a_c.108.1.0     -            284 d2hi0a_c.108.1.0.aln -            240   8.8e-56  184.7   0.3   1   1   9.9e-58   9.8e-56  184.6   0.3     2   230    13   281    12   284 0.99 -
+d3dnpa_c.108.1.0     -            275 d2hi0a_c.108.1.0.aln -            240   1.6e-55  183.8   0.7   1   1   1.9e-57   1.8e-55  183.6   0.7     4   239     2   266     1   267 0.99 -
+d2w43a_c.108.1.0     -            201 d2hi0a_c.108.1.0.aln -            240   1.2e-39  131.9   1.6   1   1   1.3e-41   1.3e-39  131.8   1.6     4   239     2   200     1   201 0.96 -
+d2hi0a_c.108.1.0     -            240 d2hi0a_c.108.1.0.aln -            240   4.6e-15   51.4   0.0   1   2   3.1e-08     3e-06   22.5   0.0     1    34     2    35     2   104 0.93 -
+d2hi0a_c.108.1.0     -            240 d2hi0a_c.108.1.0.aln -            240   4.6e-15   51.4   0.0   2   2     1e-09     1e-07   27.4   0.0   100   237   112   238   106   240 0.93 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2hi0a_c.108.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d2hi0a_c.108.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2hi0a_c.108.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:59 2025
+# [ok]

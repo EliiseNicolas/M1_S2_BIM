@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2id6a1a.4.1.9       -             75 d1rkta1a.4.1.9.aln   -             74   1.9e-26   87.3   0.4   1   1   5.4e-28     2e-26   87.3   0.4     4    73     3    72     1    73 0.97 -
+d1vi0a1a.4.1.9       -             72 d1rkta1a.4.1.9.aln   -             74   3.7e-26   86.4   0.1   1   1     1e-27   3.9e-26   86.4   0.1     5    72     2    69     1    71 0.96 -
+d1ui5a1a.4.1.9       -             71 d1rkta1a.4.1.9.aln   -             74   1.3e-23   78.3   1.5   1   1   3.6e-25   1.4e-23   78.2   1.5     2    67     3    68     2    71 0.91 -
+d2i10a1a.4.1.9       -             69 d1rkta1a.4.1.9.aln   -             74   4.9e-23   76.4   0.0   1   1   1.3e-24     5e-23   76.4   0.0     7    71     3    67     1    69 0.95 -
+d2gena1a.4.1.9       -             70 d1rkta1a.4.1.9.aln   -             74   6.3e-23   76.1   0.4   1   1   1.8e-24   6.7e-23   76.0   0.4     6    71     2    67     1    70 0.95 -
+d2gfna1a.4.1.9       -             77 d1rkta1a.4.1.9.aln   -             74   4.8e-22   73.2   0.4   1   1   1.4e-23   5.2e-22   73.2   0.4     3    73     5    75     3    76 0.96 -
+d2fd5a1a.4.1.9       -             76 d1rkta1a.4.1.9.aln   -             74   8.6e-22   72.4   0.0   1   1   2.4e-23   9.1e-22   72.4   0.0     1    70     4    73     4    76 0.96 -
+d2hyja1a.4.1.9       -             75 d1rkta1a.4.1.9.aln   -             74   2.2e-21   71.1   0.1   1   1   6.1e-23   2.3e-21   71.1   0.1     2    70     3    71     2    75 0.95 -
+d2oi8a1a.4.1.9       -             79 d1rkta1a.4.1.9.aln   -             74   2.4e-21   71.0   0.7   1   1   6.8e-23   2.5e-21   70.9   0.7     2    72     7    77     6    79 0.97 -
+d1sgma1a.4.1.9       -             73 d1rkta1a.4.1.9.aln   -             74   3.3e-21   70.6   0.0   1   1   9.2e-23   3.4e-21   70.5   0.0     4    73     2    72     1    73 0.96 -
+d1t33a1a.4.1.9       -             88 d1rkta1a.4.1.9.aln   -             74   7.5e-21   69.4   1.4   1   1   2.3e-22   8.5e-21   69.2   1.4     3    73    11    80     9    81 0.96 -
+d2np5a1a.4.1.9       -             69 d1rkta1a.4.1.9.aln   -             74   7.7e-21   69.4   0.2   1   1   2.2e-22   8.1e-21   69.3   0.2     6    70     3    67     1    69 0.96 -
+d2g7sa1a.4.1.9       -             74 d1rkta1a.4.1.9.aln   -             74   7.8e-21   69.4   0.0   1   1   2.2e-22   8.2e-21   69.3   0.0     2    72     2    72     1    74 0.95 -
+d2np3a1a.4.1.9       -             65 d1rkta1a.4.1.9.aln   -             74   1.4e-20   68.5   0.2   1   1   4.2e-22   1.6e-20   68.4   0.2     9    68     1    60     1    65 0.91 -
+d1t56a1a.4.1.9       -             73 d1rkta1a.4.1.9.aln   -             74   1.7e-20   68.3   0.0   1   1   4.6e-22   1.7e-20   68.3   0.0     5    73     3    72     1    73 0.89 -
+d2iu5a1a.4.1.9       -             71 d1rkta1a.4.1.9.aln   -             74   2.2e-19   64.7   0.1   1   1   6.2e-21   2.3e-19   64.7   0.1     3    67     4    69     2    71 0.94 -
+d1zk8a1a.4.1.9       -             72 d1rkta1a.4.1.9.aln   -             74   2.2e-18   61.5   0.1   1   1   6.1e-20   2.3e-18   61.5   0.1     4    72     3    71     1    72 0.97 -
+d2id3a1a.4.1.9       -             68 d1rkta1a.4.1.9.aln   -             74   7.8e-17   56.6   0.1   1   1   2.2e-18   8.1e-17   56.5   0.1     3    64     5    66     3    68 0.94 -
+d2o7ta1a.4.1.9       -             78 d1rkta1a.4.1.9.aln   -             74     2e-16   55.2   0.0   1   1   5.7e-18   2.2e-16   55.1   0.0     3    72     5    76     3    78 0.90 -
+d2g7ga1a.4.1.9       -             65 d1rkta1a.4.1.9.aln   -             74   2.4e-16   55.0   0.1   1   1   6.9e-18   2.6e-16   54.9   0.1     5    69     2    64     1    65 0.96 -
+d1rkta1a.4.1.9       -             81 d1rkta1a.4.1.9.aln   -             74   1.3e-15   52.7   0.1   1   1   3.7e-17   1.4e-15   52.5   0.1     4    71    11    78     8    81 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1rkta1a.4.1.9.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1rkta1a.4.1.9.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1rkta1a.4.1.9.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:42 2025
+# [ok]

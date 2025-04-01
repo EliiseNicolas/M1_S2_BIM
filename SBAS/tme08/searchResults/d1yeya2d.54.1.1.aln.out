@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1wuea2d.54.1.1      -            126 d1yeya2d.54.1.1.aln  -            128   2.3e-39  130.4   0.0   1   1   3.6e-41   2.6e-39  130.2   0.0     1   127     1   125     1   126 0.98 -
+d2akza2d.54.1.1      -            139 d1yeya2d.54.1.1.aln  -            128   6.7e-35  115.9   0.0   1   1     1e-36   7.5e-35  115.8   0.0     3   127     2   134     1   135 0.99 -
+d1sjda2d.54.1.1      -            125 d1yeya2d.54.1.1.aln  -            128   7.3e-33  109.4   0.1   1   1   1.1e-34   8.1e-33  109.2   0.1     1   127     1   124     1   125 0.96 -
+d1r0ma2d.54.1.1      -            127 d1yeya2d.54.1.1.aln  -            128   3.8e-32  107.0   0.1   1   1     6e-34   4.3e-32  106.9   0.1     1   128     3   127     3   127 0.98 -
+d2gdqa2d.54.1.1      -            115 d1yeya2d.54.1.1.aln  -            128     7e-31  103.0   0.0   1   1   1.1e-32     8e-31  102.8   0.0     1   128     1   115     1   115 0.98 -
+d2mnra2d.54.1.1      -            130 d1yeya2d.54.1.1.aln  -            128   1.5e-30  101.9   0.3   1   1   2.2e-32   1.6e-30  101.8   0.3     2   127     3   126     2   127 0.98 -
+d2gl5a2d.54.1.1      -            122 d1yeya2d.54.1.1.aln  -            128   1.4e-27   92.3   0.0   1   1   2.2e-29   1.6e-27   92.1   0.0     2   128     2   122     1   122 0.98 -
+d1kkoa2d.54.1.1      -            160 d1yeya2d.54.1.1.aln  -            128   1.7e-27   92.0   0.0   1   1   2.7e-29     2e-27   91.8   0.0     1   127    15   155    15   156 0.98 -
+d1jpdx2d.54.1.1      -            116 d1yeya2d.54.1.1.aln  -            128   4.4e-26   87.5   0.0   1   1   6.8e-28   4.9e-26   87.3   0.0     1   127     2   115     2   116 0.93 -
+d1r6wa2d.54.1.1      -            101 d1yeya2d.54.1.1.aln  -            128   5.2e-19   64.6   0.0   1   1   2.5e-18   1.8e-16   56.4   0.0     1   127     1    98     1    99 0.98 -
+d1yeya2d.54.1.1      -            139 d1yeya2d.54.1.1.aln  -            128   2.9e-09   33.1   0.2   1   1   5.2e-11   3.7e-09   32.7   0.2     3   127     3   136     2   137 0.92 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1yeya2d.54.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1yeya2d.54.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1yeya2d.54.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:51 2025
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2p74a_e.3.1.1       -            263 d1alqa_e.3.1.1.aln   -            294   6.6e-94  310.0   4.2   1   1   1.7e-95   7.3e-94  309.8   4.2     6   290     3   263     1   263 0.99 -
+d2hdsa_e.3.1.1       -            358 d1alqa_e.3.1.1.aln   -            294   2.4e-64  212.9   2.4   1   1   6.3e-66   2.7e-64  212.7   2.4     2   291     2   358     1   358 0.99 -
+d1alqa_e.3.1.1       -            263 d1alqa_e.3.1.1.aln   -            294     2e-60  200.1   2.4   1   2   5.2e-05    0.0023   12.8   0.0   243   290     2    35     1    36 0.94 -
+d1alqa_e.3.1.1       -            263 d1alqa_e.3.1.1.aln   -            294     2e-60  200.1   2.4   2   2   1.3e-57   5.5e-56  185.5   2.4    10   238    44   263    41   263 0.99 -
+d1qmea4e.3.1.1       -            357 d1alqa_e.3.1.1.aln   -            294   2.8e-60  199.6   5.1   1   1   7.9e-62   3.5e-60  199.3   5.1     2   293     4   340     3   341 0.99 -
+d2v2ff_e.3.1.1       -            384 d1alqa_e.3.1.1.aln   -            294   2.9e-60  199.5  14.7   1   1   7.7e-62   3.4e-60  199.3  14.7     2   293    34   363    33   364 0.99 -
+d1e25a_e.3.1.1       -            278 d1alqa_e.3.1.1.aln   -            294   2.2e-54  180.2   0.1   1   1   5.7e-56   2.5e-54  180.0   0.1     8   289     4   270     1   274 0.98 -
+d2drwa1e.3.1.1       -            362 d1alqa_e.3.1.1.aln   -            294   3.1e-47  156.8   0.0   1   1   7.8e-49   3.4e-47  156.6   0.0     3   292     9   348     7   350 0.99 -
+d1xa1a_e.3.1.1       -            246 d1alqa_e.3.1.1.aln   -            294     1e-45  151.8   5.8   1   1   2.5e-47   1.1e-45  151.7   5.8    20   291     2   246     1   246 0.97 -
+d1ei5a3e.3.1.1       -            333 d1alqa_e.3.1.1.aln   -            294   5.6e-43  142.8   0.0   1   1   1.4e-44   6.3e-43  142.6   0.0     3   292     8   317     6   319 0.99 -
+d1tvfa2e.3.1.1       -            301 d1alqa_e.3.1.1.aln   -            294   3.3e-42  140.2  13.5   1   1   8.5e-44   3.7e-42  140.1  13.5     2   293     8   298     7   299 0.97 -
+d1yqsa_e.3.1.1       -            345 d1alqa_e.3.1.1.aln   -            294   2.6e-41  137.3   6.1   1   1   6.7e-43     3e-41  137.1   6.1     2   293     7   333     6   334 0.99 -
+d1xp4a2e.3.1.1       -            269 d1alqa_e.3.1.1.aln   -            294     7e-41  135.9   6.0   1   1   1.8e-42   7.8e-41  135.8   6.0    19   293     2   267     1   268 0.99 -
+d1vqqa3e.3.1.1       -            341 d1alqa_e.3.1.1.aln   -            294   4.2e-40  133.3   8.0   1   1   1.1e-41   4.8e-40  133.2   8.0     2   292     4   322     3   324 0.98 -
+d1ci9a_e.3.1.1       -            377 d1alqa_e.3.1.1.aln   -            294   5.2e-39  129.7   0.0   1   1   1.4e-40   6.1e-39  129.5   0.0     2   291    10   361     9   364 0.95 -
+d2bg1a1e.3.1.1       -            453 d1alqa_e.3.1.1.aln   -            294   1.7e-38  128.1  10.3   1   1   4.7e-40     2e-38  127.8  10.3     3   290    52   414    50   418 0.98 -
+d2olua2e.3.1.1       -            400 d1alqa_e.3.1.1.aln   -            294   1.9e-38  127.9  17.5   1   1   6.7e-39   2.9e-37  124.0  17.5     3   293    31   371    29   372 0.99 -
+d1es5a_e.3.1.1       -            260 d1alqa_e.3.1.1.aln   -            294   4.5e-37  123.4  11.8   1   1   1.2e-38   5.2e-37  123.2  11.8    17   254     1   235     1   259 0.93 -
+d2dcfa1e.3.1.1       -            388 d1alqa_e.3.1.1.aln   -            294   4.7e-37  123.3   0.0   1   1   1.2e-38   5.4e-37  123.2   0.0     2   293     5   354     4   355 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1alqa_e.3.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1alqa_e.3.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1alqa_e.3.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:24 2025
+# [ok]

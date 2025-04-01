@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1vh5a_d.38.1.5      -            138 d2hboa1d.38.1.5.aln  -            137   6.7e-49  160.8   0.0   1   1   1.6e-50   7.4e-49  160.7   0.0     1   136     3   137     3   138 0.99 -
+d3f5oa_d.38.1.5      -            138 d2hboa1d.38.1.5.aln  -            137   1.6e-47  156.4   1.0   1   1   3.7e-49   1.7e-47  156.2   1.0     2   136     4   137     3   138 0.98 -
+d1q4ta_d.38.1.5      -            142 d2hboa1d.38.1.5.aln  -            137     2e-45  149.5   0.6   1   1   4.8e-47   2.2e-45  149.4   0.6     4   136     6   138     3   139 0.97 -
+d1yoca1d.38.1.5      -            145 d2hboa1d.38.1.5.aln  -            137   2.2e-40  133.2   0.0   1   1   5.3e-42   2.5e-40  133.1   0.0     2   135     9   144     8   145 0.98 -
+d1t82a_d.38.1.5      -            143 d2hboa1d.38.1.5.aln  -            137   5.9e-40  131.9   0.0   1   1   1.4e-41   6.4e-40  131.7   0.0     2   136     1   142     1   143 0.98 -
+d1wlua_d.38.1.5      -            117 d2hboa1d.38.1.5.aln  -            137   1.2e-37  124.4   0.3   1   1   2.8e-39   1.3e-37  124.3   0.3    15   136     1   117     1   117 0.97 -
+d1ixla_d.38.1.5      -            130 d2hboa1d.38.1.5.aln  -            137   5.2e-36  119.1   0.2   1   1   1.2e-37   5.7e-36  118.9   0.2     9   136     2   126     1   127 0.97 -
+d1sh8a_d.38.1.5      -            153 d2hboa1d.38.1.5.aln  -            137   3.6e-35  116.3   0.0   1   1   8.7e-37     4e-35  116.2   0.0     1   135     1   145     1   147 0.97 -
+d2ov9a1d.38.1.5      -            203 d2hboa1d.38.1.5.aln  -            137   3.6e-33  109.9   0.0   1   1     1e-34   4.7e-33  109.5   0.0     1   134    71   202    71   203 0.96 -
+d2f41a1d.38.1.5      -            111 d2hboa1d.38.1.5.aln  -            137     6e-29   96.2   0.3   1   1   1.4e-30   6.6e-29   96.1   0.3    21   132     1   111     1   111 0.98 -
+d2hboa1d.38.1.5      -            142 d2hboa1d.38.1.5.aln  -            137   1.3e-13   46.5   0.0   1   1   3.1e-15   1.4e-13   46.4   0.0    29   111    26   113     4   134 0.81 -
+d2gvha1d.38.1.1      -            135 d2hboa1d.38.1.5.aln  -            137   4.2e-12   41.6   0.1   1   1   1.2e-13   5.7e-12   41.2   0.1    46   122    20    95    15   106 0.90 -
+d1vpma_d.38.1.1      -            155 d2hboa1d.38.1.5.aln  -            137   1.7e-05   20.3   0.2   1   1   4.5e-07   2.1e-05   20.0   0.2    46   112    22    87    11   121 0.89 -
+d1s5ua_d.38.1.1      -            129 d2hboa1d.38.1.5.aln  -            137   2.7e-05   19.6   0.1   1   1   7.8e-07   3.6e-05   19.2   0.1    76   133    51   108    34   111 0.88 -
+d1njka_d.38.1.1      -            133 d2hboa1d.38.1.5.aln  -            137    0.0016   13.8   0.0   1   1   4.8e-05    0.0022   13.4   0.0    77   128    50   102    42   110 0.76 -
+d2hlja1d.38.1.1      -            156 d2hboa1d.38.1.5.aln  -            137    0.0021   13.5   0.0   1   1   6.8e-05    0.0032   12.9   0.0    59   110    37    87    30   114 0.80 -
+d2gf6a1d.38.1.1      -            134 d2hboa1d.38.1.5.aln  -            137    0.0049   12.3   0.0   1   2   0.00029     0.014   10.8   0.0    80   105    58    83    51   106 0.79 -
+d2gf6a1d.38.1.1      -            134 d2hboa1d.38.1.5.aln  -            137    0.0049   12.3   0.0   2   2       0.8        37   -0.3   0.0    19    38    86   105    78   114 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2hboa1d.38.1.5.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d2hboa1d.38.1.5.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2hboa1d.38.1.5.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:58 2025
+# [ok]

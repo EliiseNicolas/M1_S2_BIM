@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3evfa_c.66.1.0      -            261 d3doua_c.66.1.0.aln  -            244     3e-67  221.9   0.0   1   1   2.6e-69   3.4e-67  221.8   0.0     1   243     7   246     7   247 0.99 -
+d2efja_c.66.1.0      -            377 d3doua_c.66.1.0.aln  -            244   7.1e-61  201.1   0.0   1   1   6.5e-63   8.5e-61  200.8   0.0     2   244    42   299    41   299 0.99 -
+d3d2la_c.66.1.0      -            238 d3doua_c.66.1.0.aln  -            244   9.4e-55  181.0   0.0   1   1   7.9e-57     1e-54  180.9   0.0     2   236     2   237     1   238 0.99 -
+d3c3pa_c.66.1.0      -            210 d3doua_c.66.1.0.aln  -            244   3.9e-40  133.1   0.0   1   1   3.2e-42   4.3e-40  133.0   0.0     4   233     2   208     1   210 0.98 -
+d2nyua_c.66.1.0      -            189 d3doua_c.66.1.0.aln  -            244   3.1e-33  110.6   0.0   1   1   2.6e-35   3.4e-33  110.4   0.0    14   237     1   188     1   189 0.99 -
+d3e05a_c.66.1.0      -            191 d3doua_c.66.1.0.aln  -            244     4e-30  100.4   0.0   1   1   3.4e-32   4.4e-30  100.2   0.0     6   237     2   191     1   191 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3doua_c.66.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d3doua_c.66.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3doua_c.66.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:31:05 2025
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1b8aa2d.104.1.1     -            335 d1wu7a2d.104.1.1.aln -            307   3.9e-80  265.1   8.6   1   1   8.9e-82   4.7e-80  264.9   8.6     2   307    10   330     9   330 0.99 -
+d1atia2d.104.1.1     -            394 d1wu7a2d.104.1.1.aln -            307   7.1e-72  238.0   7.6   1   1   5.7e-72     3e-70  232.7   7.6     9   306    20   378    15   379 0.98 -
+d1h4vb2d.104.1.1     -            324 d1wu7a2d.104.1.1.aln -            307     1e-68  227.6   8.4   1   1   2.4e-70   1.3e-68  227.3   8.4     2   296    11   320    10   323 0.98 -
+d1qf6a4d.104.1.1     -            291 d1wu7a2d.104.1.1.aln -            307   1.6e-64  213.8   0.3   1   1   3.4e-66   1.8e-64  213.7   0.3    15   306     2   280     1   281 0.98 -
+d1hc7a2d.104.1.1     -            272 d1wu7a2d.104.1.1.aln -            307     2e-63  210.2   4.0   1   1   4.3e-65   2.3e-63  210.1   4.0     6   288     3   271     1   272 0.99 -
+d12asa_d.104.1.1     -            327 d1wu7a2d.104.1.1.aln -            307   3.8e-61  202.7   0.0   1   1   8.1e-63   4.3e-61  202.6   0.0     2   306     2   316     1   317 0.99 -
+d1z7ma1d.104.1.1     -            318 d1wu7a2d.104.1.1.aln -            307   1.4e-59  197.6   0.0   1   1   2.9e-61   1.5e-59  197.5   0.0     1   306     9   317     9   318 0.99 -
+d1g5ha2d.104.1.1     -            290 d1wu7a2d.104.1.1.aln -            307   8.8e-58  191.7   0.0   1   1   1.9e-59   9.8e-58  191.5   0.0     1   305    10   289    10   290 0.99 -
+d1nnha_d.104.1.1     -            293 d1wu7a2d.104.1.1.aln -            307   2.8e-57  190.0   4.4   1   1   5.9e-59   3.1e-57  189.9   4.4     7   306     2   286     1   287 0.98 -
+d1seta2d.104.1.1     -            311 d1wu7a2d.104.1.1.aln -            307   7.1e-56  185.4   3.7   1   1   1.5e-57     8e-56  185.3   3.7     3   306     2   305     1   306 0.99 -
+d1j5wa_d.104.1.1     -            281 d1wu7a2d.104.1.1.aln -            307   1.9e-54  180.8   2.6   1   1   3.9e-56   2.1e-54  180.6   2.6     1   293     1   280     1   281 0.99 -
+d1usya_d.104.1.1     -            275 d1wu7a2d.104.1.1.aln -            307   1.5e-45  151.6   0.0   1   1   3.1e-47   1.6e-45  151.4   0.0     7   289     2   275     1   275 0.99 -
+d1yfsa2d.104.1.1     -            236 d1wu7a2d.104.1.1.aln -            307   1.4e-38  128.6   0.7   1   1   3.1e-40   1.6e-38  128.4   0.7    20   297     2   235     1   236 0.98 -
+d1jjcb5d.104.1.1     -            207 d1wu7a2d.104.1.1.aln -            307     1e-18   63.4   6.1   1   1   2.6e-19   1.4e-17   59.7   6.1    17   246     2   190     1   202 0.92 -
+d1wu7a2d.104.1.1     -            327 d1wu7a2d.104.1.1.aln -            307   0.00011   17.4   2.8   1   3      0.25        13    0.6   0.1    24    52    15    43     5    48 0.87 -
+d1wu7a2d.104.1.1     -            327 d1wu7a2d.104.1.1.aln -            307   0.00011   17.4   2.8   2   3   3.8e-06    0.0002   16.4   0.1    53   115    61   121    56   145 0.90 -
+d1wu7a2d.104.1.1     -            327 d1wu7a2d.104.1.1.aln -            307   0.00011   17.4   2.8   3   3       5.5   2.9e+02   -3.8   0.1   259   283   287   311   276   311 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1wu7a2d.104.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1wu7a2d.104.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1wu7a2d.104.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:49 2025
+# [ok]

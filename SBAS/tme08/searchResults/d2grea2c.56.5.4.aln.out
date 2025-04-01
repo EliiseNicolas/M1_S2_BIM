@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1fnoa4c.56.5.4      -            296 d2grea2c.56.5.4.aln  -            275   1.4e-78  259.4   0.0   1   1   2.2e-80   1.6e-78  259.3   0.0     2   273     2   295     1   296 0.99 -
+d1y0ya3c.56.5.4      -            256 d2grea2c.56.5.4.aln  -            275   1.1e-77  256.5   1.2   1   1   1.7e-79   1.2e-77  256.4   1.2    14   272     2   255     1   256 0.98 -
+d1z2la1c.56.5.4      -            294 d2grea2c.56.5.4.aln  -            275   4.4e-76  251.3   0.0   1   1   6.8e-78   4.9e-76  251.1   0.0     2   274     2   294     1   294 0.99 -
+d1rtqa_c.56.5.4      -            291 d2grea2c.56.5.4.aln  -            275     4e-71  235.0   0.1   1   1   6.2e-73   4.4e-71  234.9   0.1     2   274    12   288    11   289 0.99 -
+d1r3na1c.56.5.4      -            323 d2grea2c.56.5.4.aln  -            275   7.1e-70  230.9   0.0   1   1   1.1e-71     8e-70  230.8   0.0     2   274     6   318     5   319 0.99 -
+d1cg2a1c.56.5.4      -            277 d2grea2c.56.5.4.aln  -            275   3.9e-67  221.9   0.3   1   1     6e-69   4.3e-67  221.8   0.3     2   271     5   275     4   277 0.99 -
+d1vgya1c.56.5.4      -            263 d2grea2c.56.5.4.aln  -            275   4.5e-67  221.7   0.0   1   1     7e-69     5e-67  221.6   0.0    11   271     1   263     1   263 0.99 -
+d1tkja_c.56.5.4      -            277 d2grea2c.56.5.4.aln  -            275   3.5e-64  212.3   0.0   1   1   5.4e-66   3.9e-64  212.1   0.0     2   271     5   276     4   277 0.99 -
+d1lfwa1c.56.5.4      -            273 d2grea2c.56.5.4.aln  -            275   1.6e-63  210.1   0.1   1   1   2.5e-65   1.8e-63  209.9   0.1     2   273     3   272     2   273 0.98 -
+d1y7ea2c.56.5.4      -            323 d2grea2c.56.5.4.aln  -            275   5.3e-63  208.4   0.1   1   1   8.3e-65     6e-63  208.2   0.1     2   274    12   319    11   320 0.99 -
+d2grea2c.56.5.4      -            234 d2grea2c.56.5.4.aln  -            275   0.00089   14.1   0.3   1   2   2.1e-05    0.0015   13.4   0.1    13    84     4    72     1    81 0.89 -
+d2grea2c.56.5.4      -            234 d2grea2c.56.5.4.aln  -            275   0.00089   14.1   0.3   2   2       1.5   1.1e+02   -2.5   0.0   200   245   162   207   135   224 0.60 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2grea2c.56.5.4.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d2grea2c.56.5.4.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2grea2c.56.5.4.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:58 2025
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1i8oa_a.3.1.1       -            114 d1c52a_a.3.1.1.aln   -            122   5.2e-29   96.6   0.8   1   1     6e-31     6e-29   96.4   0.8    20   120     1   113     1   114 0.97 -
+d1e29a_a.3.1.1       -            135 d1c52a_a.3.1.1.aln   -            122   3.9e-25   84.1   0.0   1   1   4.4e-27   4.3e-25   84.0   0.0     2   121     6   132     5   133 0.95 -
+d1h32b_a.3.1.1       -            138 d1c52a_a.3.1.1.aln   -            122   2.3e-21   71.9   0.0   1   1   2.6e-23   2.6e-21   71.8   0.0     2   121     7   137     6   138 0.97 -
+d1gu2a_a.3.1.1       -            124 d1c52a_a.3.1.1.aln   -            122   1.1e-15   53.6   0.3   1   1   1.3e-17   1.2e-15   53.4   0.3     2   108     8   123     7   124 0.95 -
+d1dw0a_a.3.1.1       -            112 d1c52a_a.3.1.1.aln   -            122   8.3e-15   50.8   0.1   1   1   9.2e-17     9e-15   50.7   0.1     2   106     2   111     1   112 0.94 -
+d1wvec_a.3.1.1       -             75 d1c52a_a.3.1.1.aln   -            122   1.4e-09   33.9   0.0   1   1   4.3e-11   4.2e-09   32.4   0.0    21   106     2    74     1    75 0.89 -
+d1c75a_a.3.1.1       -             71 d1c52a_a.3.1.1.aln   -            122   3.5e-09   32.6   0.3   1   1   4.2e-11   4.2e-09   32.4   0.3    24    87     2    64     1    71 0.78 -
+d1c52a_a.3.1.1       -            131 d1c52a_a.3.1.1.aln   -            122   3.7e-08   29.3   0.1   1   1   4.9e-10   4.9e-08   28.9   0.1    23    97     2    89     1   128 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1c52a_a.3.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1c52a_a.3.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1c52a_a.3.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:26 2025
+# [ok]

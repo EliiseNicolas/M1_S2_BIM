@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3f1la_c.2.1.0       -            245 d3i4fa_c.2.1.0.aln   -            263   8.5e-73  240.3   0.0   1   1   1.3e-74   9.4e-73  240.1   0.0     2   258     9   245     8   245 0.99 -
+d3l77a_c.2.1.0       -            235 d3i4fa_c.2.1.0.aln   -            263   5.5e-56  185.1   0.0   1   1     9e-58   6.4e-56  184.9   0.0     5   246     2   218     1   233 0.92 -
+d3i4fa_c.2.1.0       -            250 d3i4fa_c.2.1.0.aln   -            263     3e-49  163.1   0.5   1   1   4.9e-51   3.5e-49  162.8   0.5     6   258     3   245     2   248 0.97 -
+d3ehea_c.2.1.0       -            303 d3i4fa_c.2.1.0.aln   -            263   2.6e-36  120.6   0.2   1   1   8.5e-37   6.1e-35  116.2   0.2    10   262     4   291     1   292 0.89 -
+d2r6ja_c.2.1.0       -            310 d3i4fa_c.2.1.0.aln   -            263   1.8e-27   91.7   0.0   1   1   2.7e-29   1.9e-27   91.6   0.0     4   260     2   294     1   297 0.96 -
+d1luaa1c.2.1.7       -            191 d3i4fa_c.2.1.0.aln   -            263   4.7e-06   21.5   5.1   1   1     9e-08   6.4e-06   21.0   5.1     2    84    20    98    19   101 0.85 -
+d1nhpa2c.3.1.5       -            123 d3i4fa_c.2.1.0.aln   -            263   2.9e-05   18.9   0.1   1   1   4.8e-07   3.4e-05   18.6   0.1     9    54    33    92    30   114 0.80 -
+d1o89a2c.2.1.1       -            177 d3i4fa_c.2.1.0.aln   -            263   3.5e-05   18.6   0.1   1   1   6.5e-07   4.7e-05   18.2   0.1     8    41    35    68    30   107 0.80 -
+d1jaya_c.2.1.6       -            212 d3i4fa_c.2.1.0.aln   -            263   0.00022   16.0   0.6   1   1   4.5e-06   0.00032   15.5   0.6     6    53     2    43     1    74 0.72 -
+d1wd5a_c.61.1.1      -            208 d3i4fa_c.2.1.0.aln   -            263   0.00071   14.3   1.5   1   1   1.8e-05    0.0013   13.5   1.5    26    81   117   172   113   204 0.82 -
+d2f5va1c.3.1.2       -            380 d3i4fa_c.2.1.0.aln   -            263    0.0033   12.1   0.0   1   1   7.1e-05    0.0051   11.5   0.0     2    38     2    40     1    73 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3i4fa_c.2.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d3i4fa_c.2.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d3i4fa_c.2.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:31:06 2025
+# [ok]

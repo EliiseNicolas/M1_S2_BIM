@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2fbia1a.4.5.28      -            136 d1p4xa2a.4.5.28.aln  -            141   3.8e-43  142.1   0.5   1   1   1.1e-44   4.1e-43  142.0   0.5     7   139     3   134     1   136 0.98 -
+d2etha1a.4.5.28      -            140 d1p4xa2a.4.5.28.aln  -            141     1e-41  137.5   0.1   1   1   2.8e-43   1.1e-41  137.4   0.1     5   140     3   137     1   138 0.98 -
+d2fxaa1a.4.5.28      -            162 d1p4xa2a.4.5.28.aln  -            141   7.1e-41  134.8   0.0   1   1     2e-42     8e-41  134.6   0.0     3   140    10   146     8   147 0.98 -
+d2a61a1a.4.5.28      -            139 d1p4xa2a.4.5.28.aln  -            141   9.9e-41  134.3   0.0   1   1   2.8e-42   1.1e-40  134.2   0.0     5   140     1   135     1   136 0.98 -
+d1s3ja_a.4.5.28      -            143 d1p4xa2a.4.5.28.aln  -            141   1.3e-39  130.6   3.7   1   1   3.7e-41   1.5e-39  130.5   3.7     3   140     4   140     2   141 0.98 -
+d3broa1a.4.5.28      -            135 d1p4xa2a.4.5.28.aln  -            141   3.7e-39  129.2   6.8   1   1     1e-40   4.1e-39  129.1   6.8     7   138     2   134     1   135 0.99 -
+d2fbha1a.4.5.28      -            137 d1p4xa2a.4.5.28.aln  -            141   4.1e-39  129.1   0.1   1   1   1.1e-40   4.5e-39  128.9   0.1     8   141     2   135     1   135 0.97 -
+d1jgsa_a.4.5.28      -            138 d1p4xa2a.4.5.28.aln  -            141   4.5e-39  128.9   0.0   1   1   1.2e-40   4.8e-39  128.8   0.0     3   137     3   136     1   138 0.95 -
+d1lj9a_a.4.5.28      -            144 d1p4xa2a.4.5.28.aln  -            141     5e-39  128.8   1.3   1   1   1.4e-40   5.5e-39  128.6   1.3     7   140     2   134     1   135 0.98 -
+d3echa_a.4.5.28      -            142 d1p4xa2a.4.5.28.aln  -            141   1.7e-37  123.8   0.1   1   1   4.9e-39   1.9e-37  123.6   0.1     3   139     4   141     2   142 0.96 -
+d1p4xa1a.4.5.28      -            125 d1p4xa2a.4.5.28.aln  -            141   8.6e-36  118.3   3.0   1   1   2.4e-37   9.4e-36  118.2   3.0     1   124     1   125     1   125 0.98 -
+d2fbka1a.4.5.28      -            172 d1p4xa2a.4.5.28.aln  -            141   1.3e-35  117.7   0.0   1   1   3.9e-37   1.5e-35  117.5   0.0     6   140    34   170    29   171 0.97 -
+d2hr3a1a.4.5.28      -            145 d1p4xa2a.4.5.28.aln  -            141   4.5e-35  116.0   0.0   1   1   1.3e-36     5e-35  115.8   0.0     2   140     2   140     1   141 0.98 -
+d1hsja1a.4.5.28      -            115 d1p4xa2a.4.5.28.aln  -            141   8.4e-33  108.6   4.8   1   1   2.3e-34   9.1e-33  108.5   4.8     3   115     1   114     1   115 0.98 -
+d3bjaa_a.4.5.0       -            139 d1p4xa2a.4.5.28.aln  -            141   1.6e-24   81.8   0.1   1   1   4.3e-26   1.7e-24   81.7   0.1     4   139     3   137     1   139 0.93 -
+d3jw4a_a.4.5.0       -            137 d1p4xa2a.4.5.28.aln  -            141   4.3e-24   80.4   0.1   1   1   1.2e-25   4.6e-24   80.3   0.1    11   136     7   133     1   137 0.96 -
+d1ub9a_a.4.5.28      -            100 d1p4xa2a.4.5.28.aln  -            141   7.9e-24   79.5   0.0   1   1   2.2e-25   8.5e-24   79.4   0.0    19   117     1    98     1   100 0.97 -
+d1p4xa2a.4.5.28      -            125 d1p4xa2a.4.5.28.aln  -            141   6.9e-18   60.3   3.0   1   1   2.1e-19   8.3e-18   60.0   3.0     9   115     8   115     2   120 0.94 -
+d3ctaa1a.4.5.28      -             85 d1p4xa2a.4.5.28.aln  -            141     1e-15   53.2   0.4   1   2      0.16       6.5    2.0   0.0     7    28     2    23     1    25 0.87 -
+d3ctaa1a.4.5.28      -             85 d1p4xa2a.4.5.28.aln  -            141     1e-15   53.2   0.4   2   2   9.8e-17   3.9e-15   51.4   0.1    51   114    23    83    16    84 0.94 -
+d3df8a_a.4.5.0       -            109 d1p4xa2a.4.5.28.aln  -            141    0.0014   13.9   0.0   1   1   6.2e-05    0.0024   13.1   0.0    40   110    32   100    23   106 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1p4xa2a.4.5.28.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1p4xa2a.4.5.28.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1p4xa2a.4.5.28.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:39 2025
+# [ok]

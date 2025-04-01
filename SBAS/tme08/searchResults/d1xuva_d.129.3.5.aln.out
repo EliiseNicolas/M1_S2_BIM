@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2nn5a1d.129.3.5     -            160 d1xuva_d.129.3.5.aln -            152   4.5e-49  162.0   0.4   1   1   6.4e-51     5e-49  161.9   0.4     1   151     8   159     8   160 0.99 -
+d3elia1d.129.3.5     -            143 d1xuva_d.129.3.5.aln -            152   4.7e-49  162.0   0.2   1   1   6.6e-51   5.2e-49  161.8   0.2     6   148     2   143     1   143 0.99 -
+d2il5a1d.129.3.5     -            164 d1xuva_d.129.3.5.aln -            152   1.7e-48  160.2   2.2   1   1   2.3e-50   1.9e-48  160.1   2.2     1   151     3   162     3   163 0.99 -
+d1xn5a_d.129.3.5     -            138 d1xuva_d.129.3.5.aln -            152   2.7e-48  159.5   2.8   1   1   3.8e-50     3e-48  159.4   2.8     2   149     2   138     1   138 0.98 -
+d1xfsa_d.129.3.5     -            165 d1xuva_d.129.3.5.aln -            152     2e-47  156.7   0.1   1   1   2.8e-49   2.2e-47  156.6   0.1     2   152     2   164     1   164 0.98 -
+d1z94a1d.129.3.5     -            143 d1xuva_d.129.3.5.aln -            152   1.1e-45  151.0   0.0   1   1   1.6e-47   1.3e-45  150.9   0.0     5   149     2   142     1   143 0.99 -
+d2k5ga1d.129.3.5     -            183 d1xuva_d.129.3.5.aln -            152   1.7e-45  150.4   0.0   1   1   2.6e-47     2e-45  150.2   0.0     3   151    17   164    15   165 0.98 -
+d2l65a1d.129.3.5     -            155 d1xuva_d.129.3.5.aln -            152   3.1e-45  149.6   0.8   1   1   4.3e-47   3.4e-45  149.5   0.8     2   152     1   153     1   153 0.99 -
+d1x53a1d.129.3.5     -            132 d1xuva_d.129.3.5.aln -            152   1.2e-37  125.0   0.3   1   1   1.9e-39   1.5e-37  124.6   0.3     3   152     2   132     1   132 0.98 -
+d1xuva_d.129.3.5     -            163 d1xuva_d.129.3.5.aln -            152   4.1e-14   48.5   0.1   1   1   6.9e-16   5.5e-14   48.1   0.1     5    99    12   104    10   159 0.82 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1xuva_d.129.3.5.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1xuva_d.129.3.5.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1xuva_d.129.3.5.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:50 2025
+# [ok]

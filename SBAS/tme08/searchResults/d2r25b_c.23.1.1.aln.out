@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1jbea_c.23.1.1      -            128 d2r25b_c.23.1.1.aln  -            125   8.6e-43  140.7   0.0   1   1     2e-44   9.4e-43  140.6   0.0     2   123     4   126     3   128 0.98 -
+d1kgsa2c.23.1.1      -            122 d2r25b_c.23.1.1.aln  -            125   7.9e-42  137.6   0.2   1   1   1.9e-43   8.6e-42  137.5   0.2     3   124     2   121     1   122 0.98 -
+d1dbwa_c.23.1.1      -            123 d2r25b_c.23.1.1.aln  -            125   6.3e-36  118.5   0.2   1   1   1.5e-37   6.9e-36  118.4   0.2     2   122     3   121     2   123 0.97 -
+d1mb3a_c.23.1.1      -            123 d2r25b_c.23.1.1.aln  -            125   9.1e-36  118.0   0.1   1   1   2.1e-37     1e-35  117.9   0.1     3   123     2   122     1   123 0.98 -
+d1dz3a_c.23.1.1      -            123 d2r25b_c.23.1.1.aln  -            125   2.5e-35  116.6   0.0   1   1   5.8e-37   2.7e-35  116.5   0.0     3   122     2   122     1   123 0.97 -
+d1s8na_c.23.1.1      -            190 d2r25b_c.23.1.1.aln  -            125   2.9e-35  116.4   0.3   1   1   9.4e-37   4.3e-35  115.8   0.3     3   124     4   123     2   124 0.96 -
+d1k66a_c.23.1.1      -            149 d2r25b_c.23.1.1.aln  -            125   5.8e-33  108.9   0.0   1   1   1.4e-34   6.6e-33  108.7   0.0     4   123     8   139     5   141 0.97 -
+d2v0na2c.23.1.1      -            153 d2r25b_c.23.1.1.aln  -            125   3.2e-30  100.1   0.1   1   1   8.6e-32     4e-30   99.8   0.1     4   124    15   133    13   134 0.98 -
+d3cfya_c.23.1.0      -            130 d2r25b_c.23.1.1.aln  -            125   2.4e-26   87.6   0.1   1   1   5.7e-28   2.6e-26   87.4   0.1     3   123     3   121     1   123 0.96 -
+d2r25b_c.23.1.1      -            133 d2r25b_c.23.1.1.aln  -            125   2.9e-26   87.3   0.1   1   1     7e-28   3.2e-26   87.1   0.1     3   118     3   123     1   129 0.94 -
+d3heba_c.23.1.0      -            142 d2r25b_c.23.1.1.aln  -            125   7.3e-26   86.0   0.0   1   1   1.9e-27     9e-26   85.7   0.0     4   119     2   128     1   131 0.97 -
+d2b4aa1c.23.1.1      -            118 d2r25b_c.23.1.1.aln  -            125   2.5e-25   84.3   0.0   1   1   5.8e-27   2.7e-25   84.2   0.0     2   119     2   115     1   118 0.94 -
+d3khta_c.23.1.0      -            132 d2r25b_c.23.1.1.aln  -            125   6.5e-23   76.5   0.0   1   1   1.5e-24   6.8e-23   76.4   0.0     3   116     2   118     1   127 0.83 -
+d3eqza_c.23.1.0      -            124 d2r25b_c.23.1.1.aln  -            125   2.2e-16   55.4   0.0   1   1   6.7e-18   3.1e-16   54.9   0.0     4   114     3   115     2   124 0.76 -
+d3ktoa_c.23.1.0      -            122 d2r25b_c.23.1.1.aln  -            125     1e-14   49.9   0.2   1   1   2.5e-16   1.2e-14   49.8   0.2     5   121     3   119     1   122 0.93 -
+d2plna_c.23.1.0      -            118 d2r25b_c.23.1.1.aln  -            125   1.1e-14   49.8   0.1   1   1   2.8e-16   1.3e-14   49.6   0.1     3   119     5   116     3   118 0.92 -
+d1q0qa2c.2.1.3       -            152 d2r25b_c.23.1.1.aln  -            125   0.00087   14.7   0.2   1   2      0.73        34   -0.2   0.0    62    93    14    44    13    49 0.74 -
+d1q0qa2c.2.1.3       -            152 d2r25b_c.23.1.1.aln  -            125   0.00087   14.7   0.2   2   2    0.0001    0.0047   12.3   0.1     8    51    55    97    51   102 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2r25b_c.23.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d2r25b_c.23.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d2r25b_c.23.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:31:03 2025
+# [ok]

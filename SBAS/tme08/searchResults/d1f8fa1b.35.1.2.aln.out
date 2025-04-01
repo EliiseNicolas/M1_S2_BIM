@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2jhfa1b.35.1.2      -            199 d1f8fa1b.35.1.2.aln  -            177   5.8e-72  236.9   0.1   1   1   9.1e-74   6.5e-72  236.7   0.1     1   175     5   198     5   199 0.99 -
+d1pl8a1b.35.1.2      -            186 d1f8fa1b.35.1.2.aln  -            177   6.4e-53  174.9   0.0   1   1   1.1e-54     8e-53  174.6   0.0     6   173     8   176     4   179 0.96 -
+d1piwa1b.35.1.2      -            193 d1f8fa1b.35.1.2.aln  -            177   3.7e-51  169.2   1.3   1   1   5.7e-53   4.1e-51  169.0   1.3     3   175     7   184     5   186 0.96 -
+d1h2ba1b.35.1.2      -            172 d1f8fa1b.35.1.2.aln  -            177     1e-50  167.7   0.1   1   1   1.6e-52   1.1e-50  167.6   0.1     6   176     1   171     1   172 0.96 -
+d1jqba1b.35.1.2      -            178 d1f8fa1b.35.1.2.aln  -            177   1.3e-49  164.1   0.0   1   1   2.1e-51   1.5e-49  163.9   0.0     7   176     2   176     1   177 0.97 -
+d1kola1b.35.1.2      -            202 d1f8fa1b.35.1.2.aln  -            177   5.8e-42  139.2   0.7   1   1     9e-44   6.5e-42  139.0   0.7     6   175     2   195     1   197 0.97 -
+d1yb5a1b.35.1.2      -            151 d1f8fa1b.35.1.2.aln  -            177     3e-37  123.8   0.1   1   1   2.6e-38   1.9e-36  121.3   0.1     2   176     2   149     1   150 0.91 -
+d1f8fa1b.35.1.2      -            195 d1f8fa1b.35.1.2.aln  -            177   1.6e-31  105.2   0.1   1   1   3.5e-33   2.5e-31  104.6   0.1    13   167    12   185     3   194 0.93 -
+d1gu7a1b.35.1.2      -            176 d1f8fa1b.35.1.2.aln  -            177   1.6e-31  105.2   0.0   1   1   2.4e-33   1.7e-31  105.1   0.0     2   176     1   175     1   176 0.98 -
+d1o89a1b.35.1.2      -            147 d1f8fa1b.35.1.2.aln  -            177   2.3e-29   98.2   0.0   1   1   4.9e-31   3.5e-29   97.6   0.0     4   176     2   146     1   147 0.94 -
+d2dm6a1b.35.1.2      -            148 d1f8fa1b.35.1.2.aln  -            177   8.1e-26   86.6   0.0   1   1   1.7e-27   1.2e-25   86.0   0.0     2   176     7   147     6   148 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1f8fa1b.35.1.2.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1f8fa1b.35.1.2.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1f8fa1b.35.1.2.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:28 2025
+# [ok]

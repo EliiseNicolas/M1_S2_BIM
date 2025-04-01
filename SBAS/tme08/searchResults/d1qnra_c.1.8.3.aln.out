@@ -1,0 +1,35 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1i1wa_c.1.8.3       -            303 d1qnra_c.1.8.3.aln   -            343   2.6e-92  305.4   6.5   1   1     8e-94   2.9e-92  305.3   6.5     2   337     3   301     2   303 0.97 -
+d1hjua_c.1.8.3       -            332 d1qnra_c.1.8.3.aln   -            343   1.2e-64  214.4  17.9   1   1   3.8e-66   1.3e-64  214.3  17.9     8   342     4   329     1   330 0.98 -
+d1qw9a2c.1.8.3       -            367 d1qnra_c.1.8.3.aln   -            343   1.2e-53  178.3   2.5   1   1   3.6e-55   1.3e-53  178.2   2.5     2   342     5   361     4   362 0.98 -
+d7a3ha_c.1.8.3       -            300 d1qnra_c.1.8.3.aln   -            343   3.5e-47  157.0  14.8   1   1   1.1e-48   4.1e-47  156.8  14.8     7   325    12   292     6   298 0.95 -
+d1edga_c.1.8.3       -            380 d1qnra_c.1.8.3.aln   -            343     3e-45  150.7  19.1   1   1     1e-46   3.6e-45  150.4  19.1     4   338    19   373    16   376 0.96 -
+d1ecea_c.1.8.3       -            358 d1qnra_c.1.8.3.aln   -            343   2.2e-44  147.8  16.3   1   1     7e-46   2.5e-44  147.6  16.3     5   342    17   355    14   356 0.96 -
+d1bqca_c.1.8.3       -            302 d1qnra_c.1.8.3.aln   -            343   2.3e-44  147.7  10.9   1   1   7.3e-46   2.6e-44  147.6  10.9     1   340     1   298     1   301 0.96 -
+d3n9ka_c.1.8.3       -            394 d1qnra_c.1.8.3.aln   -            343   4.6e-44  146.8  20.3   1   1   1.6e-45   5.7e-44  146.5  20.3     3   342    40   387    38   388 0.96 -
+d1ceoa_c.1.8.3       -            340 d1qnra_c.1.8.3.aln   -            343   1.2e-43  145.4   2.0   1   1   3.7e-45   1.3e-43  145.3   2.0     7   339     3   332     1   336 0.97 -
+d1w91a2c.1.8.3       -            347 d1qnra_c.1.8.3.aln   -            343   5.4e-42  140.0   0.1   1   1   1.7e-43     6e-42  139.8   0.1     5   343    16   342    12   342 0.97 -
+d1h1na_c.1.8.3       -            305 d1qnra_c.1.8.3.aln   -            343   3.7e-41  137.2  14.6   1   1   1.2e-42   4.4e-41  136.9  14.6    11   339    16   303     4   305 0.94 -
+d1vjza_c.1.8.3       -            325 d1qnra_c.1.8.3.aln   -            343   3.8e-41  137.2   0.3   1   1   1.2e-42   4.4e-41  136.9   0.3     8   338     4   320     1   324 0.97 -
+d1uuqa_c.1.8.3       -            410 d1qnra_c.1.8.3.aln   -            343   7.6e-41  136.2  17.9   1   1   2.7e-42   9.5e-41  135.8  17.9     2   340    11   404    10   406 0.98 -
+d2je8a5c.1.8.3       -            348 d1qnra_c.1.8.3.aln   -            343   3.6e-40  134.0   7.9   1   1   1.1e-41     4e-40  133.8   7.9     5   342     4   346     1   347 0.98 -
+d1jz8a5c.1.8.3       -            292 d1qnra_c.1.8.3.aln   -            343   1.2e-37  125.7   0.6   1   1   3.7e-39   1.3e-37  125.5   0.6     5   337     2   291     1   292 0.95 -
+d1ur4a_c.1.8.3       -            387 d1qnra_c.1.8.3.aln   -            343   1.3e-36  122.2  16.4   1   1     7e-38   2.5e-36  121.3  16.4     6   342    13   387     9   387 0.98 -
+d2nt0a2c.1.8.3       -            354 d1qnra_c.1.8.3.aln   -            343   1.6e-36  122.0   0.1   1   1   4.8e-38   1.7e-36  121.8   0.1    15   342    25   349    11   350 0.95 -
+d1rh9a1c.1.8.3       -            370 d1qnra_c.1.8.3.aln   -            343   2.2e-36  121.5   5.8   1   1   6.8e-38   2.4e-36  121.4   5.8     2   307    11   343    10   368 0.97 -
+d1odza_c.1.8.3       -            381 d1qnra_c.1.8.3.aln   -            343   4.3e-36  120.5  13.5   1   1   1.5e-37   5.5e-36  120.2  13.5     2   341    14   369    13   371 0.98 -
+d2vzsa5c.1.8.3       -            339 d1qnra_c.1.8.3.aln   -            343   1.4e-31  105.7   4.1   1   1   4.3e-33   1.5e-31  105.6   4.1     7   339     2   335     1   339 0.93 -
+d1nofa2c.1.8.3       -            277 d1qnra_c.1.8.3.aln   -            343   5.3e-22   74.2   4.5   1   1   1.7e-23   5.9e-22   74.1   4.5     9   338     2   274     1   277 0.93 -
+d2v3ga_c.1.8.3       -            273 d1qnra_c.1.8.3.aln   -            343   1.3e-21   73.0  23.2   1   1   4.1e-23   1.5e-21   72.8  23.2     6   328     2   263     1   272 0.96 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1qnra_c.1.8.3.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/d1qnra_c.1.8.3.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/d1qnra_c.1.8.3.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Tue Apr  1 17:30:40 2025
+# [ok]

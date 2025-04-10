@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3tqla_c.94.1.0      -            227 d3h7ma_c.94.1.0.aln  -            239  7.6e-100  328.8   0.1   1   1  1.1e-101  8.5e-100  328.7   0.1     1   228     2   227     2   227 1.00 -
+d3kzga_c.94.1.0      -            228 d3h7ma_c.94.1.0.aln  -            239   6.4e-95  312.7   0.1   1   1     9e-97   7.1e-95  312.6   0.1     2   228     4   228     3   228 0.99 -
+d3delb_c.94.1.0      -            232 d3h7ma_c.94.1.0.aln  -            239   9.9e-94  308.8   0.0   1   1   1.4e-95   1.1e-93  308.7   0.0     1   239     1   232     1   232 0.99 -
+d3r6ua_c.94.1.0      -            272 d3h7ma_c.94.1.0.aln  -            239     9e-89  292.6   1.6   1   1   1.3e-90     1e-88  292.4   1.6     1   239     1   263     1   263 0.99 -
+d2q88a_c.94.1.0      -            257 d3h7ma_c.94.1.0.aln  -            239   2.6e-86  284.5   0.0   1   1   3.8e-88     3e-86  284.3   0.0     1   239    12   250    12   250 0.99 -
+d3i6va_c.94.1.0      -            218 d3h7ma_c.94.1.0.aln  -            239   1.7e-84  278.5   0.0   1   1   2.5e-86   1.9e-84  278.4   0.0     2   235     1   218     1   218 0.99 -
+d3h7ma_c.94.1.0      -            228 d3h7ma_c.94.1.0.aln  -            239   5.2e-22   74.0   0.0   1   1   8.2e-24   6.5e-22   73.7   0.0     2   227     6   222     5   227 0.95 -
+d1xt8a1c.94.1.1      -            248 d3h7ma_c.94.1.0.aln  -            239   6.5e-21   70.4   0.8   1   1   1.4e-22   1.1e-20   69.7   0.8     3   225    13   228    11   235 0.84 -
+d1ii5a_c.94.1.1      -            226 d3h7ma_c.94.1.0.aln  -            239   1.8e-10   36.3   0.0   1   1   2.8e-12   2.2e-10   36.0   0.0    11   227    13   224     6   226 0.85 -
+d1pb7a_c.94.1.1      -            289 d3h7ma_c.94.1.0.aln  -            239     5e-05   18.4   0.0   1   1   1.7e-06   0.00014   17.0   0.0    45   201    99   256    92   283 0.71 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3h7ma_c.94.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d3h7ma_c.94.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3h7ma_c.94.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:43 2025
+# [ok]

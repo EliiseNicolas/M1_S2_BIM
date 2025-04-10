@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ohwa_c.67.1.4      -            461 d1w23a_c.67.1.4.aln  -            397  3.5e-136  449.5   0.0   1   1    5e-138  3.9e-136  449.3   0.0     2   397    16   458    15   458 0.99 -
+d1zoda_c.67.1.4      -            431 d1w23a_c.67.1.4.aln  -            397  8.9e-132  435.0   0.0   1   1  1.3e-133  9.9e-132  434.8   0.0     1   396     3   426     3   427 0.99 -
+d3piua_c.67.1.4      -            416 d1w23a_c.67.1.4.aln  -            397  1.1e-131  434.6   0.0   1   1  1.6e-133  1.3e-131  434.5   0.0     3   397     1   412     1   412 1.00 -
+d1bs0a_c.67.1.4      -            383 d1w23a_c.67.1.4.aln  -            397  1.3e-130  431.2   0.0   1   1  1.8e-132  1.4e-130  431.0   0.0     2   396     1   382     1   383 1.00 -
+d1vefa1c.67.1.4      -            387 d1w23a_c.67.1.4.aln  -            397  1.6e-127  421.0   0.0   1   1  2.2e-129  1.7e-127  420.9   0.0     3   396     1   385     1   386 0.99 -
+d2bwna1c.67.1.4      -            396 d1w23a_c.67.1.4.aln  -            397  5.1e-126  416.0   0.0   1   1  7.3e-128  5.7e-126  415.9   0.0     1   397     7   396     7   396 0.99 -
+d2fnua_c.67.1.4      -            373 d1w23a_c.67.1.4.aln  -            397  2.3e-123  407.3   1.1   1   1  3.3e-125  2.6e-123  407.1   1.1     1   394     1   373     1   373 1.00 -
+d2dkja_c.67.1.4      -            402 d1w23a_c.67.1.4.aln  -            397  2.8e-120  397.1   0.0   1   1    4e-122  3.2e-120  396.9   0.0     1   395     2   402     2   402 0.99 -
+d1o69a_c.67.1.4      -            374 d1w23a_c.67.1.4.aln  -            397    3e-116  383.8   0.2   1   1  4.3e-118  3.4e-116  383.7   0.2     2   391     2   374     1   374 0.99 -
+d2epja_c.67.1.0      -            426 d1w23a_c.67.1.4.aln  -            397   4.4e-11   37.6   0.0   1   1   8.1e-12   6.4e-10   33.7   0.0    24   231    33   240    30   332 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1w23a_c.67.1.4.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1w23a_c.67.1.4.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1w23a_c.67.1.4.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:31 2025
+# [ok]

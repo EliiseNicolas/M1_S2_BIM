@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ks9a2c.2.1.6       -            167 d2pv7a2c.2.1.6.aln   -            173   3.1e-46  152.8   0.0   1   1   7.4e-48   3.5e-46  152.6   0.0     1   168     1   167     1   167 0.99 -
+d1evya2c.2.1.6       -            189 d2pv7a2c.2.1.6.aln   -            173   3.2e-46  152.7   0.0   1   1   7.8e-48   3.6e-46  152.5   0.0     1   172     8   189     8   189 0.99 -
+d1txga2c.2.1.6       -            180 d2pv7a2c.2.1.6.aln   -            173   5.9e-45  148.6   0.0   1   1   1.4e-46   6.5e-45  148.5   0.0     1   172     1   175     1   176 0.99 -
+d2f1ka2c.2.1.6       -            165 d2pv7a2c.2.1.6.aln   -            173   3.7e-44  146.0   0.0   1   1   8.9e-46   4.1e-44  145.8   0.0     1   173     1   165     1   165 0.99 -
+d1jaya_c.2.1.6       -            212 d2pv7a2c.2.1.6.aln   -            173   4.2e-44  145.8   0.1   1   1     1e-45   4.7e-44  145.7   0.1     3   172     4   186     1   187 0.97 -
+d1mv8a2c.2.1.6       -            202 d2pv7a2c.2.1.6.aln   -            173   9.4e-44  144.7   0.0   1   1   2.3e-45   1.1e-43  144.5   0.0     1   172     1   187     1   188 0.99 -
+d1bg6a2c.2.1.6       -            184 d2pv7a2c.2.1.6.aln   -            173   1.2e-43  144.4   0.2   1   1   2.8e-45   1.3e-43  144.2   0.2     2   172     3   176     2   177 0.98 -
+d1dlja2c.2.1.6       -            196 d2pv7a2c.2.1.6.aln   -            173   5.6e-42  138.9   0.0   1   1   1.4e-43   6.3e-42  138.7   0.0     1   173     1   182     1   182 0.99 -
+d1f0ya2c.2.1.6       -            192 d2pv7a2c.2.1.6.aln   -            173     7e-42  138.6   1.9   1   1   1.7e-43   7.8e-42  138.4   1.9     1   173     5   183     5   183 0.99 -
+d1lj8a4c.2.1.6       -            286 d2pv7a2c.2.1.6.aln   -            173   4.4e-40  132.7   0.0   1   1   1.1e-41   5.2e-40  132.5   0.0     2   172    28   233    27   234 0.99 -
+d1vpda2c.2.1.6       -            161 d2pv7a2c.2.1.6.aln   -            173   4.9e-40  132.6   0.9   1   1   1.2e-41   5.4e-40  132.4   0.9     1   170     1   160     1   161 0.99 -
+d1yqga2c.2.1.6       -            152 d2pv7a2c.2.1.6.aln   -            173   3.8e-39  129.7   0.1   1   1   9.1e-41   4.2e-39  129.5   0.1     1   159     1   151     1   152 0.99 -
+d2ahra2c.2.1.6       -            152 d2pv7a2c.2.1.6.aln   -            173   9.5e-38  125.1   0.0   1   1   2.3e-39     1e-37  125.0   0.0     1   160     1   151     1   152 0.99 -
+d1i36a2c.2.1.6       -            152 d2pv7a2c.2.1.6.aln   -            173   3.4e-35  116.8   0.2   1   1   8.1e-37   3.8e-35  116.7   0.2     2   163     2   151     1   152 0.98 -
+d2i76a2c.2.1.6       -            153 d2pv7a2c.2.1.6.aln   -            173   5.2e-35  116.2   0.0   1   1   1.2e-36   5.7e-35  116.1   0.0     3   161     2   153     1   153 0.98 -
+d1gpja2c.2.1.7       -            159 d2pv7a2c.2.1.6.aln   -            173   8.7e-09   30.8   0.1   1   1   2.5e-10   1.2e-08   30.4   0.1     1    98    25   118    25   151 0.86 -
+d2ivda1c.3.1.2       -            348 d2pv7a2c.2.1.6.aln   -            173     0.016   10.5   2.1   1   1    0.0016     0.076    8.2   1.9     1    27     1    27     1    68 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2pv7a2c.2.1.6.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d2pv7a2c.2.1.6.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2pv7a2c.2.1.6.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:41 2025
+# [ok]

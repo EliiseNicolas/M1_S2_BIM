@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1yqsa_e.3.1.1       -            345 d1es5a_e.3.1.1.aln   -            350   2.5e-95  314.9   3.7   1   1     6e-97   2.8e-95  314.8   3.7     3   350     3   342     1   342 0.99 -
+d2hdsa_e.3.1.1       -            358 d1es5a_e.3.1.1.aln   -            350   4.1e-93  307.7   1.1   1   1   9.7e-95   4.5e-93  307.5   1.1     2   350     3   358     2   358 0.99 -
+d2drwa1e.3.1.1       -            362 d1es5a_e.3.1.1.aln   -            350   1.7e-90  299.1   0.0   1   1     4e-92   1.9e-90  298.9   0.0     3   349     2   357     1   358 0.99 -
+d2olua2e.3.1.1       -            400 d1es5a_e.3.1.1.aln   -            350   4.3e-89  294.4  15.7   1   1     1e-90   4.8e-89  294.3  15.7     3   349    16   394    14   395 0.99 -
+d2bg1a1e.3.1.1       -            453 d1es5a_e.3.1.1.aln   -            350   7.1e-88  290.4  15.3   1   1   1.9e-89   8.7e-88  290.1  15.3     3   348    31   440    29   442 0.99 -
+d1ci9a_e.3.1.1       -            377 d1es5a_e.3.1.1.aln   -            350   1.7e-86  285.9   0.0   1   1   4.1e-88   1.9e-86  285.7   0.0     3   349     4   376     2   377 0.99 -
+d2v2ff_e.3.1.1       -            384 d1es5a_e.3.1.1.aln   -            350   7.1e-86  283.8  20.2   1   1   1.7e-87   7.9e-86  283.7  20.2     2   349     7   382     6   383 0.99 -
+d1ei5a3e.3.1.1       -            333 d1es5a_e.3.1.1.aln   -            350   7.5e-86  283.8   0.0   1   1   1.8e-87   8.3e-86  283.6   0.0     2   348     2   329     1   331 0.99 -
+d2dcfa1e.3.1.1       -            388 d1es5a_e.3.1.1.aln   -            350   2.1e-84  279.0   0.0   1   1   5.1e-86   2.4e-84  278.8   0.0     1   349     4   378     4   379 0.99 -
+d1qmea4e.3.1.1       -            357 d1es5a_e.3.1.1.aln   -            350   5.4e-82  271.1   6.1   1   1   1.3e-83     6e-82  270.9   6.1     5   347     2   356     1   357 0.99 -
+d1vqqa3e.3.1.1       -            341 d1es5a_e.3.1.1.aln   -            350   3.2e-79  261.9  12.9   1   1   7.8e-81   3.6e-79  261.8  12.9     2   341     9   340     8   341 0.99 -
+d1tvfa2e.3.1.1       -            301 d1es5a_e.3.1.1.aln   -            350     1e-68  227.4  16.4   1   1   2.5e-70   1.2e-68  227.2  16.4     2   303     7   300     6   301 0.99 -
+d1e25a_e.3.1.1       -            278 d1es5a_e.3.1.1.aln   -            350   5.3e-66  218.5   0.1   1   1   1.2e-67   5.8e-66  218.4   0.1    18   306     2   267     1   278 0.98 -
+d2p74a_e.3.1.1       -            263 d1es5a_e.3.1.1.aln   -            350   4.2e-59  195.8   2.1   1   1   1.2e-60   5.6e-59  195.4   2.1    18   303     3   261     1   263 0.98 -
+d1alqa_e.3.1.1       -            263 d1es5a_e.3.1.1.aln   -            350   2.5e-57  190.0   6.0   1   1   5.9e-59   2.7e-57  189.8   6.0    13   268     4   261     1   263 0.98 -
+d1xp4a2e.3.1.1       -            269 d1es5a_e.3.1.1.aln   -            350   3.1e-55  183.1   6.0   1   1   7.3e-57   3.4e-55  183.0   6.0    25   304     2   269     1   269 0.99 -
+d1xa1a_e.3.1.1       -            246 d1es5a_e.3.1.1.aln   -            350   5.3e-51  169.2   8.0   1   1   1.4e-52   6.6e-51  168.8   8.0    12   297     2   245     1   246 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1es5a_e.3.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1es5a_e.3.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1es5a_e.3.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:16 2025
+# [ok]

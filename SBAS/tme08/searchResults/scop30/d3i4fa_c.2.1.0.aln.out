@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3ehea_c.2.1.0       -            303 d3i4fa_c.2.1.0.aln   -            295  1.7e-135  446.4   0.0   1   1  1.2e-137  1.9e-135  446.2   0.0     1   295     1   303     1   303 1.00 -
+d2r6ja_c.2.1.0       -            310 d3i4fa_c.2.1.0.aln   -            295  1.9e-133  439.7   0.0   1   1  1.3e-135  2.1e-133  439.5   0.0     1   295     5   308     5   308 1.00 -
+d3f1la_c.2.1.0       -            245 d3i4fa_c.2.1.0.aln   -            295  1.7e-105  347.9   0.0   1   1  1.2e-107  1.8e-105  347.8   0.0    11   267     1   245     1   245 0.99 -
+d3l77a_c.2.1.0       -            235 d3i4fa_c.2.1.0.aln   -            295   3.4e-93  307.5   0.0   1   1   2.4e-95   3.7e-93  307.4   0.0    21   270     1   235     1   235 1.00 -
+d3i4fa_c.2.1.0       -            250 d3i4fa_c.2.1.0.aln   -            295   4.3e-07   24.8   0.2   1   1   6.4e-09     1e-06   23.6   0.2    23   189     3   165     2   193 0.77 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3i4fa_c.2.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d3i4fa_c.2.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3i4fa_c.2.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:44 2025
+# [ok]

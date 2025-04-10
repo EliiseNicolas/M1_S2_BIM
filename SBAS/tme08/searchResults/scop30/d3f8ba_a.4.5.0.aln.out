@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3bjaa_a.4.5.0       -            139 d3f8ba_a.4.5.0.aln   -            133   3.9e-53  174.5   0.8   1   1   7.1e-55   4.3e-53  174.3   0.8     2   133     6   139     5   139 0.99 -
+d3jw4a_a.4.5.0       -            137 d3f8ba_a.4.5.0.aln   -            133     8e-50  163.8   0.4   1   1   1.5e-51   8.8e-50  163.6   0.4     2   132     3   137     2   137 0.99 -
+d2xiga_a.4.5.0       -            148 d3f8ba_a.4.5.0.aln   -            133   5.2e-49  161.1   4.1   1   1   9.5e-51   5.8e-49  161.0   4.1     1   133     1   139     1   139 0.99 -
+d3k69a_a.4.5.0       -            155 d3f8ba_a.4.5.0.aln   -            133   6.2e-47  154.4   0.0   1   1   1.2e-48     7e-47  154.2   0.0     2   133     4   153     3   153 0.99 -
+d3qu3a_a.4.5.0       -            122 d3f8ba_a.4.5.0.aln   -            133     1e-42  140.7   0.0   1   1   1.9e-44   1.1e-42  140.6   0.0     2   127     1   122     1   122 0.99 -
+d3df8a_a.4.5.0       -            109 d3f8ba_a.4.5.0.aln   -            133   7.7e-34  112.0   0.0   1   1   1.4e-35   8.5e-34  111.9   0.0    16   131     1   109     1   109 0.99 -
+d2fbia1a.4.5.28      -            136 d3f8ba_a.4.5.0.aln   -            133   1.2e-06   24.0   0.2   1   1   2.7e-08   1.6e-06   23.6   0.2    21   130    22   133    19   134 0.90 -
+d2a61a1a.4.5.28      -            139 d3f8ba_a.4.5.0.aln   -            133   0.00042   15.8   0.0   1   1   1.5e-05    0.0009   14.7   0.0    15   128    16   131     4   136 0.74 -
+d3broa1a.4.5.28      -            135 d3f8ba_a.4.5.0.aln   -            133    0.0006   15.3   1.0   1   1   1.1e-05   0.00064   15.2   1.0    22   106    22   106     1   132 0.81 -
+d1s3ja_a.4.5.28      -            143 d3f8ba_a.4.5.0.aln   -            133    0.0007   15.1   0.2   1   2      0.85        52   -0.7   0.0    43    70     5    33     2    38 0.80 -
+d1s3ja_a.4.5.28      -            143 d3f8ba_a.4.5.0.aln   -            133    0.0007   15.1   0.2   2   2   2.5e-05    0.0015   14.0   0.1    37    89    43    97    16   138 0.82 -
+d1lj9a_a.4.5.28      -            144 d3f8ba_a.4.5.0.aln   -            133   0.00095   14.7   0.3   1   1   2.4e-05    0.0015   14.0   0.3    37    93    37    95     3    98 0.82 -
+d1jgsa_a.4.5.28      -            138 d3f8ba_a.4.5.0.aln   -            133    0.0029   13.1   0.0   1   1    0.0001    0.0061   12.0   0.0    59   127    66   135    63   136 0.83 -
+d2etha1a.4.5.28      -            140 d3f8ba_a.4.5.0.aln   -            133    0.0033   12.9   0.0   1   1   7.3e-05    0.0044   12.5   0.0    38    95    43   100    39   123 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3f8ba_a.4.5.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d3f8ba_a.4.5.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3f8ba_a.4.5.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:43 2025
+# [ok]

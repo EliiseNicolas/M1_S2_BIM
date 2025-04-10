@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1pvma4d.37.1.1      -            142 d2riha_d.37.1.1.aln  -            137   3.8e-42  139.1   0.7   1   1     1e-43   4.3e-42  139.0   0.7     2   135     1   129     1   131 0.97 -
+d2yzia1d.37.1.1      -            132 d2riha_d.37.1.1.aln  -            137   8.1e-41  134.8   0.8   1   1   2.2e-42     9e-41  134.7   0.8     2   136     3   130     2   131 0.97 -
+d3ddja1d.37.1.1      -            141 d2riha_d.37.1.1.aln  -            137   2.7e-40  133.1   6.5   1   1   7.3e-42     3e-40  133.0   6.5     4   135     2   133     1   135 0.98 -
+d1o50a3d.37.1.1      -            145 d2riha_d.37.1.1.aln  -            137   2.2e-39  130.2   1.2   1   1     6e-41   2.5e-39  130.0   1.2     1   136     1   144     1   145 0.98 -
+d1y5ha3d.37.1.1      -            123 d2riha_d.37.1.1.aln  -            137   1.2e-38  127.8   0.0   1   1   3.2e-40   1.3e-38  127.7   0.0     6   131     3   122     1   123 0.98 -
+d2yzqa1d.37.1.1      -            156 d2riha_d.37.1.1.aln  -            137   1.3e-38  127.7   0.0   1   1   3.6e-40   1.5e-38  127.5   0.0     2   131     2   155     1   156 0.98 -
+d2yzqa2d.37.1.1      -            122 d2riha_d.37.1.1.aln  -            137   6.3e-38  125.4   1.8   1   1   1.7e-39     7e-38  125.3   1.8     4   136     1   121     1   122 0.98 -
+d3ddja2d.37.1.1      -            135 d2riha_d.37.1.1.aln  -            137   2.4e-36  120.3   0.1   1   1   6.3e-38   2.6e-36  120.2   0.1     4   135     1   134     1   135 0.97 -
+d2nyca1d.37.1.1      -            140 d2riha_d.37.1.1.aln  -            137   6.2e-36  119.0   0.6   1   1   1.6e-37   6.7e-36  118.9   0.6     2   132     4   138     3   140 0.98 -
+d1vr9a3d.37.1.1      -            121 d2riha_d.37.1.1.aln  -            137   8.4e-36  118.6   0.0   1   1   2.3e-37   9.4e-36  118.4   0.0     4   135     1   120     1   121 0.96 -
+d2j9la1d.37.1.1      -            169 d2riha_d.37.1.1.aln  -            137   1.1e-35  118.2   0.2   1   1   2.9e-37   1.2e-35  118.1   0.2     2   136     6   160     5   161 0.98 -
+d2v8qe2d.37.1.1      -            159 d2riha_d.37.1.1.aln  -            137   3.3e-35  116.7   0.0   1   1   8.8e-37   3.6e-35  116.5   0.0     1   135    10   157    10   159 0.98 -
+d2rc3a1d.37.1.1      -            127 d2riha_d.37.1.1.aln  -            137   4.6e-35  116.2   2.0   1   1   1.2e-36   4.9e-35  116.1   2.0     4   131     5   125     2   127 0.94 -
+d1pbja3d.37.1.1      -            120 d2riha_d.37.1.1.aln  -            137     1e-33  111.9   6.5   1   1   2.6e-35   1.1e-33  111.7   6.5     5   131     1   119     1   120 0.98 -
+d2ouxa2d.37.1.1      -            127 d2riha_d.37.1.1.aln  -            137     3e-32  107.1   7.6   1   1   7.9e-34   3.3e-32  106.9   7.6     3   136     5   126     3   127 0.96 -
+d1zfja4d.37.1.1      -            126 d2riha_d.37.1.1.aln  -            137   3.4e-32  106.9   0.1   1   1   8.9e-34   3.7e-32  106.8   0.1     7   136     2   121     1   122 0.97 -
+d2d4za3d.37.1.1      -            161 d2riha_d.37.1.1.aln  -            137   2.9e-30  100.7   0.0   1   1   7.8e-32   3.2e-30  100.5   0.0     2   132     9   160     8   161 0.98 -
+d2riha_d.37.1.1      -            131 d2riha_d.37.1.1.aln  -            137   4.7e-20   67.6   0.4   1   2   8.3e-08   3.5e-06   22.7   0.0    79   133     5    61     3    64 0.92 -
+d2riha_d.37.1.1      -            131 d2riha_d.37.1.1.aln  -            137   4.7e-20   67.6   0.4   2   2   3.3e-14   1.4e-12   43.4   0.1    83   127    74   118    69   129 0.93 -
+d1khta_c.37.1.1      -            190 d2riha_d.37.1.1.aln  -            137    0.0011   14.6   1.8   1   2   3.4e-05    0.0014   14.2   0.7     7    95     2    94     1    96 0.85 -
+d1khta_c.37.1.1      -            190 d2riha_d.37.1.1.aln  -            137    0.0011   14.6   1.8   2   2       4.1   1.7e+02   -2.2   0.0    78   103   108   133   104   138 0.71 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2riha_d.37.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d2riha_d.37.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2riha_d.37.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:41 2025
+# [ok]

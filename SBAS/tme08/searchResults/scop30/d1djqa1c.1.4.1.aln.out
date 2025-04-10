@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ofda2c.1.4.1       -            809 d1djqa1c.1.4.1.aln   -            593  2.3e-286  946.6   0.0   1   1  2.7e-288  2.6e-286  946.4   0.0     1   593     1   809     1   809 1.00 -
+d1vyra_c.1.4.1       -            363 d1djqa1c.1.4.1.aln   -            593  6.9e-107  353.9   0.0   1   1  7.8e-109  7.7e-107  353.7   0.0   219   579     1   363     1   363 0.99 -
+d1ep3a_c.1.4.1       -            311 d1djqa1c.1.4.1.aln   -            593   1.6e-95  316.3   0.0   1   1   1.8e-97   1.8e-95  316.2   0.0   232   558     1   310     1   311 0.99 -
+d1gtea2c.1.4.1       -            312 d1djqa1c.1.4.1.aln   -            593   1.4e-92  306.6   0.0   1   1   1.6e-94   1.6e-92  306.4   0.0   225   548     1   312     1   312 0.99 -
+d1p4ca_c.1.4.1       -            353 d1djqa1c.1.4.1.aln   -            593   5.5e-92  304.7   0.0   1   1   6.2e-94   6.1e-92  304.5   0.0   233   557     1   352     1   353 0.99 -
+d2e6fa_c.1.4.1       -            312 d1djqa1c.1.4.1.aln   -            593     3e-89  295.6   0.0   1   1   3.4e-91   3.4e-89  295.5   0.0   231   556     1   311     1   312 0.99 -
+d1p0ka_c.1.4.1       -            329 d1djqa1c.1.4.1.aln   -            593   2.9e-87  289.1   0.3   1   1   3.3e-89   3.2e-87  288.9   0.3   256   577     1   328     1   329 0.99 -
+d1vhna_c.1.4.1       -            305 d1djqa1c.1.4.1.aln   -            593   2.9e-83  275.9   0.0   1   1   3.3e-85   3.2e-83  275.7   0.0   237   557     2   303     1   305 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1djqa1c.1.4.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1djqa1c.1.4.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1djqa1c.1.4.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:15 2025
+# [ok]

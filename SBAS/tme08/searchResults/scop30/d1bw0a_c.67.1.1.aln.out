@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1gdea_c.67.1.1      -            388 d1bw0a_c.67.1.1.aln  -            364  9.1e-135  444.4   0.0   1   1  1.7e-136    1e-134  444.2   0.0     1   363    17   385    17   386 0.99 -
+d3fvsa_c.67.1.1      -            419 d1bw0a_c.67.1.1.aln  -            364    2e-133  440.0   0.0   1   1  3.7e-135  2.2e-133  439.8   0.0     2   363    18   403    17   404 0.99 -
+d2gb3a1c.67.1.1      -            389 d1bw0a_c.67.1.1.aln  -            364  7.4e-124  408.5   0.0   1   1  1.4e-125  8.3e-124  408.4   0.0     1   363    16   381    16   382 0.99 -
+d2hoxa_c.67.1.1      -            425 d1bw0a_c.67.1.1.aln  -            364  3.1e-120  396.6   0.0   1   1  5.8e-122  3.5e-120  396.4   0.0     1   364    15   415    15   415 1.00 -
+d1v72a1c.67.1.1      -            345 d1bw0a_c.67.1.1.aln  -            364    9e-117  385.2   0.0   1   1  1.6e-118    1e-116  385.1   0.0    10   358     3   343     1   345 0.99 -
+d1fg7a_c.67.1.1      -            354 d1bw0a_c.67.1.1.aln  -            364  5.8e-116  382.5   0.0   1   1  1.1e-117  6.5e-116  382.4   0.0     1   357     1   353     1   354 0.99 -
+d1lc5a_c.67.1.1      -            355 d1bw0a_c.67.1.1.aln  -            364  7.4e-115  378.9   0.0   1   1  1.4e-116  8.2e-115  378.8   0.0     5   356     2   354     1   355 0.99 -
+d1svva_c.67.1.1      -            340 d1bw0a_c.67.1.1.aln  -            364  1.8e-114  377.7   0.0   1   1  3.2e-116    2e-114  377.5   0.0    12   358     2   339     1   340 0.99 -
+d1m6sa_c.67.1.1      -            343 d1bw0a_c.67.1.1.aln  -            364  2.3e-113  374.0   0.0   1   1  4.2e-115  2.5e-113  373.9   0.0    11   364     1   343     1   343 0.99 -
+d3ftba_c.67.1.0      -            334 d1bw0a_c.67.1.1.aln  -            364   4.1e-26   86.9   0.0   1   1   8.3e-28     5e-26   86.6   0.0    76   356    57   330    36   333 0.87 -
+d1bw0a_c.67.1.1      -            412 d1bw0a_c.67.1.1.aln  -            364   7.8e-21   69.6   0.0   1   1   2.1e-22   1.3e-20   68.9   0.0    68   226   100   264    28   405 0.82 -
+d3piua_c.67.1.4      -            416 d1bw0a_c.67.1.1.aln  -            364   8.1e-17   56.3   0.0   1   2       1.3        81   -2.9   0.0    59    81     4    25     3    28 0.87 -
+d3piua_c.67.1.4      -            416 d1bw0a_c.67.1.1.aln  -            364   8.1e-17   56.3   0.0   2   2     3e-18   1.8e-16   55.2   0.0    39   293    62   337    42   361 0.81 -
+d1o69a_c.67.1.4      -            374 d1bw0a_c.67.1.1.aln  -            364    0.0094   10.1   1.0   1   1   0.00057     0.035    8.2   1.0    70   183    36   145    19   149 0.64 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1bw0a_c.67.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1bw0a_c.67.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1bw0a_c.67.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:14 2025
+# [ok]

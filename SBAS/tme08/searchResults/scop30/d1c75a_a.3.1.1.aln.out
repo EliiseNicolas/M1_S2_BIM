@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1i8oa_a.3.1.1       -            114 d1c75a_a.3.1.1.aln   -            119   3.1e-43  142.5   0.4   1   1     3e-45   3.4e-43  142.4   0.4     1   117     1   113     1   114 0.98 -
+d1gu2a_a.3.1.1       -            124 d1c75a_a.3.1.1.aln   -            119     2e-42  139.9   0.4   1   1     2e-44   2.2e-42  139.8   0.4     2   119     2   121     1   121 0.99 -
+d1h32b_a.3.1.1       -            138 d1c75a_a.3.1.1.aln   -            119   1.1e-37  124.6   0.0   1   1   1.1e-39   1.2e-37  124.5   0.0     2   119    10   138     9   138 0.98 -
+d1dw0a_a.3.1.1       -            112 d1c75a_a.3.1.1.aln   -            119   5.7e-37  122.3   0.1   1   1   5.5e-39   6.2e-37  122.2   0.1     1   117     1   112     1   112 0.98 -
+d1e29a_a.3.1.1       -            135 d1c75a_a.3.1.1.aln   -            119   7.5e-36  118.7   0.0   1   1   7.4e-38   8.4e-36  118.6   0.0     2   119     5   124     4   124 0.98 -
+d1c52a_a.3.1.1       -            131 d1c75a_a.3.1.1.aln   -            119   7.1e-35  115.6   0.1   1   1     7e-37   7.9e-35  115.4   0.1     4   118     1   120     1   121 0.98 -
+d1wvec_a.3.1.1       -             75 d1c75a_a.3.1.1.aln   -            119   1.6e-14   49.9   0.1   1   1   1.9e-15   2.2e-13   46.2   0.1     1   116     1    74     1    75 0.92 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1c75a_a.3.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1c75a_a.3.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1c75a_a.3.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:14 2025
+# [ok]

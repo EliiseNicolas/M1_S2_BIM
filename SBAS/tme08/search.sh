@@ -1,6 +1,6 @@
-MODELS_DIR="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models"
+MODELS_DIR="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop95"
 SCOP_TEST="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta"
-OUTPUT_DIR="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults"
+OUTPUT_DIR="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop95"
 
 mkdir -p "$OUTPUT_DIR"
 

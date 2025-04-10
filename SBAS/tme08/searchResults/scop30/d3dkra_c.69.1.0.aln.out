@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3bdia_c.69.1.0      -            207 d3dkra_c.69.1.0.aln  -            209  3.5e-101  332.3   0.0   1   1  1.5e-103  3.9e-101  332.1   0.0     1   209     1   207     1   207 0.99 -
+d3og9a_c.69.1.0      -            206 d3dkra_c.69.1.0.aln  -            209  1.2e-100  330.5   0.0   1   1  5.1e-103  1.3e-100  330.4   0.0     2   207     1   206     1   206 1.00 -
+d3o0da_c.69.1.0      -            301 d3dkra_c.69.1.0.aln  -            209   2.5e-97  319.7   0.0   1   1   1.1e-99   2.9e-97  319.5   0.0     1   209     2   267     2   267 1.00 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3dkra_c.69.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d3dkra_c.69.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3dkra_c.69.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:43 2025
+# [ok]

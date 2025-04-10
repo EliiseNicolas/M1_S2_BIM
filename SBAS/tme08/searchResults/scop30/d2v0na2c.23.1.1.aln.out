@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1dz3a_c.23.1.1      -            123 d2v0na2c.23.1.1.aln  -            123   3.3e-44  145.3   0.0   1   1   7.3e-46   3.6e-44  145.2   0.0     3   121     2   122     1   123 0.98 -
+d1mb3a_c.23.1.1      -            123 d2v0na2c.23.1.1.aln  -            123     4e-42  138.6   0.1   1   1   8.9e-44   4.4e-42  138.4   0.1     3   122     2   122     1   123 0.98 -
+d1kgsa2c.23.1.1      -            122 d2v0na2c.23.1.1.aln  -            123   6.9e-42  137.8   0.0   1   1   1.5e-43   7.5e-42  137.7   0.0     2   121     1   119     1   121 0.97 -
+d1jbea_c.23.1.1      -            128 d2v0na2c.23.1.1.aln  -            123   1.2e-41  137.1   0.0   1   1   2.6e-43   1.3e-41  136.9   0.0     2   122     4   126     3   127 0.98 -
+d2r25b_c.23.1.1      -            133 d2v0na2c.23.1.1.aln  -            123   1.3e-41  137.0   0.1   1   1   2.9e-43   1.4e-41  136.8   0.1     2   122     2   128     1   129 0.97 -
+d1s8na_c.23.1.1      -            190 d2v0na2c.23.1.1.aln  -            123   2.8e-41  135.9   0.1   1   1   7.8e-43   3.9e-41  135.4   0.1     2   122     3   122     2   123 0.97 -
+d1k66a_c.23.1.1      -            149 d2v0na2c.23.1.1.aln  -            123   7.4e-40  131.3   0.0   1   1   1.7e-41   8.4e-40  131.1   0.0     2   122     6   139     5   140 0.98 -
+d1dbwa_c.23.1.1      -            123 d2v0na2c.23.1.1.aln  -            123   3.4e-37  122.6   0.1   1   1   7.6e-39   3.7e-37  122.5   0.1     1   122     2   122     2   123 0.98 -
+d2b4aa1c.23.1.1      -            118 d2v0na2c.23.1.1.aln  -            123   1.5e-32  107.6   0.0   1   1   3.4e-34   1.7e-32  107.5   0.0     1   120     1   117     1   118 0.95 -
+d3cfya_c.23.1.0      -            130 d2v0na2c.23.1.1.aln  -            123   6.8e-28   92.6   0.1   1   1   1.6e-29   7.9e-28   92.4   0.1     4   121     4   120     2   122 0.97 -
+d3heba_c.23.1.0      -            142 d2v0na2c.23.1.1.aln  -            123   1.2e-22   75.7   0.0   1   1     3e-24   1.5e-22   75.4   0.0     4   118     2   128     1   130 0.94 -
+d3khta_c.23.1.0      -            132 d2v0na2c.23.1.1.aln  -            123   1.5e-20   68.9   0.0   1   1   3.3e-22   1.6e-20   68.8   0.0     3   104     2   106     1   124 0.95 -
+d3eqza_c.23.1.0      -            124 d2v0na2c.23.1.1.aln  -            123   5.5e-13   44.5   0.1   1   1   1.6e-14   7.7e-13   44.0   0.1     4   114     3   116     2   124 0.73 -
+d2v0na2c.23.1.1      -            153 d2v0na2c.23.1.1.aln  -            123   2.9e-11   38.9   0.0   1   1   8.2e-13     4e-11   38.4   0.0     4   121    15   131    13   133 0.90 -
+d3ktoa_c.23.1.0      -            122 d2v0na2c.23.1.1.aln  -            123   3.8e-10   35.3   0.3   1   1   9.7e-12   4.8e-10   35.0   0.3     5   120     3   119     2   122 0.78 -
+d2plna_c.23.1.0      -            118 d2v0na2c.23.1.1.aln  -            123   1.6e-07   26.8   0.1   1   1   4.2e-09     2e-07   26.5   0.1     3   117     5   115     3   118 0.73 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2v0na2c.23.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d2v0na2c.23.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2v0na2c.23.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:41 2025
+# [ok]

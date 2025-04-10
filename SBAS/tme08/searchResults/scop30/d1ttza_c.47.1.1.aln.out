@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2i4aa_c.47.1.1      -            107 d1ttza_c.47.1.1.aln  -            111   2.2e-38  126.1   0.0   1   1   3.3e-40   2.4e-38  126.0   0.0     4   109     2   107     1   107 0.99 -
+d1r26a_c.47.1.1      -            113 d1ttza_c.47.1.1.aln  -            111   2.8e-37  122.6   0.0   1   1   4.2e-39     3e-37  122.4   0.0     2   110     6   113     5   113 0.99 -
+d1sena_c.47.1.1      -            135 d1ttza_c.47.1.1.aln  -            111     2e-36  119.8   0.0   1   1   3.3e-38   2.4e-36  119.6   0.0     2   110     5   117     4   118 0.98 -
+d1zmaa1c.47.1.1      -            115 d1ttza_c.47.1.1.aln  -            111   3.7e-34  112.5   0.0   1   1   5.6e-36     4e-34  112.4   0.0     2   111     6   112     5   112 0.99 -
+d2fwha_c.47.1.1      -            117 d1ttza_c.47.1.1.aln  -            111     4e-34  112.4   0.0   1   1   6.1e-36   4.4e-34  112.3   0.0     1   110     1   116     1   117 0.98 -
+d1z6na1c.47.1.1      -            166 d1ttza_c.47.1.1.aln  -            111   4.8e-30   99.2   0.0   1   1   8.1e-32   5.8e-30   99.0   0.0     2   110    34   150    33   151 0.98 -
+d1wjka_c.47.1.1      -            100 d1ttza_c.47.1.1.aln  -            111   6.9e-29   95.5   0.0   1   1     1e-30   7.4e-29   95.4   0.0     9   110     2    98     1    99 0.97 -
+d1abaa_c.47.1.1      -             87 d1ttza_c.47.1.1.aln  -            111   8.3e-26   85.6   0.0   1   1   1.2e-27     9e-26   85.5   0.0    21   109     1    87     1    87 0.96 -
+d1iloa_c.47.1.1      -             77 d1ttza_c.47.1.1.aln  -            111   5.8e-19   63.6   0.1   1   1     9e-21   6.4e-19   63.4   0.1    24   109     1    76     1    77 0.98 -
+d3gnja_c.47.1.0      -            111 d1ttza_c.47.1.1.aln  -            111   1.1e-07   27.2   0.0   1   1   2.2e-09   1.5e-07   26.8   0.0    11    66    11    66     4    83 0.94 -
+d2hzfa_c.47.1.0      -            110 d1ttza_c.47.1.1.aln  -            111    0.0021   13.5   0.0   1   1   3.7e-05    0.0026   13.1   0.0    26   100    18    88     5    93 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1ttza_c.47.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1ttza_c.47.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1ttza_c.47.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:27 2025
+# [ok]

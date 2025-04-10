@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2c81a_c.67.1.0      -            409 d2epja_c.67.1.0.aln  -            410  1.7e-248  819.5   0.0   1   1    2e-250  1.9e-248  819.3   0.0     1   410     1   409     1   409 1.00 -
+d3ftba_c.67.1.0      -            334 d2epja_c.67.1.0.aln  -            410  3.1e-172  568.3  14.2   1   2  2.6e-145  2.6e-143  473.1   8.5     3   289     1   268     1   268 1.00 -
+d3ftba_c.67.1.0      -            334 d2epja_c.67.1.0.aln  -            410  3.1e-172  568.3  14.2   2   2     1e-31     1e-29   98.9   0.3   340   406   269   334   269   334 0.99 -
+d1o69a_c.67.1.4      -            374 d2epja_c.67.1.0.aln  -            410   2.6e-22   74.5   0.8   1   1   3.9e-24   3.8e-22   74.0   0.8    14   205     6   192     2   208 0.90 -
+d1lc5a_c.67.1.1      -            355 d2epja_c.67.1.0.aln  -            410   4.3e-19   64.0   0.0   1   3   6.4e-06   0.00063   14.0   0.0     3    94    24   116    22   122 0.86 -
+d1lc5a_c.67.1.1      -            355 d2epja_c.67.1.0.aln  -            410   4.3e-19   64.0   0.0   2   3   1.9e-11   1.9e-09   32.2   0.0   174   279   180   284   171   291 0.93 -
+d1lc5a_c.67.1.1      -            355 d2epja_c.67.1.0.aln  -            410   4.3e-19   64.0   0.0   3   3   5.4e-06   0.00053   14.3   0.0   338   400   292   352   287   354 0.83 -
+d2fnua_c.67.1.4      -            373 d2epja_c.67.1.0.aln  -            410   1.3e-11   39.3   0.0   1   1   2.5e-13   2.5e-11   38.4   0.0    41   237    37   234    28   257 0.87 -
+d1fg7a_c.67.1.1      -            354 d2epja_c.67.1.0.aln  -            410   1.2e-08   29.5   0.0   1   1   1.7e-10   1.7e-08   29.1   0.0    31   289    51   293    42   315 0.82 -
+d1gdea_c.67.1.1      -            388 d2epja_c.67.1.0.aln  -            410   1.9e-07   25.6   0.0   1   1   2.4e-09   2.4e-07   25.3   0.0    55   174    90   214    38   259 0.79 -
+d2gb3a1c.67.1.1      -            389 d2epja_c.67.1.0.aln  -            410   8.1e-07   23.5   0.0   1   1   1.1e-08   1.1e-06   23.1   0.0    40   162    68   203    34   257 0.71 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2epja_c.67.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d2epja_c.67.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2epja_c.67.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:36 2025
+# [ok]

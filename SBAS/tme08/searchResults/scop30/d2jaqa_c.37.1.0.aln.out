@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3do6a_c.37.1.0      -            543 d2jaqa_c.37.1.0.aln  -            438  3.1e-245  809.4   2.7   1   1  1.7e-247  3.4e-245  809.2   2.7     1   438     1   543     1   543 1.00 -
+d1wcv1_c.37.1.0      -            244 d2jaqa_c.37.1.0.aln  -            438  8.7e-102  336.6   0.9   1   1  4.9e-104  9.7e-102  336.5   0.9    45   288     1   243     1   244 1.00 -
+d3akea_c.37.1.0      -            208 d2jaqa_c.37.1.0.aln  -            438   3.6e-75  248.9   0.1   1   1     2e-77     4e-75  248.8   0.1    44   281     1   207     1   208 0.99 -
+d2qora_c.37.1.0      -            196 d2jaqa_c.37.1.0.aln  -            438     4e-71  235.6   0.0   1   1     8e-73   1.6e-70  233.6   0.0    42   285     1   195     1   196 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2jaqa_c.37.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d2jaqa_c.37.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2jaqa_c.37.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:39 2025
+# [ok]

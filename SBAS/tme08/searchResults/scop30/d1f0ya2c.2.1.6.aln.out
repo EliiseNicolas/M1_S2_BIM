@@ -1,0 +1,35 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1bg6a2c.2.1.6       -            184 d1f0ya2c.2.1.6.aln   -            173   2.5e-47  156.2   0.1   1   1     7e-49   2.8e-47  156.1   0.1     2   172     3   173     2   174 0.99 -
+d1evya2c.2.1.6       -            189 d1f0ya2c.2.1.6.aln   -            173   7.8e-47  154.6   0.0   1   1   2.2e-48   8.5e-47  154.5   0.0     3   172     9   188     7   189 0.98 -
+d1txga2c.2.1.6       -            180 d1f0ya2c.2.1.6.aln   -            173   1.1e-46  154.1   0.0   1   1   3.1e-48   1.2e-46  154.0   0.0     1   171     1   179     1   180 0.99 -
+d1ks9a2c.2.1.6       -            167 d1f0ya2c.2.1.6.aln   -            173   5.2e-46  151.9   0.0   1   1   1.5e-47   5.8e-46  151.8   0.0     1   169     1   167     1   167 0.99 -
+d1jaya_c.2.1.6       -            212 d1f0ya2c.2.1.6.aln   -            173   2.3e-45  149.8   0.2   1   1   6.6e-47   2.6e-45  149.6   0.2     1   172     1   177     1   178 0.99 -
+d1mv8a2c.2.1.6       -            202 d1f0ya2c.2.1.6.aln   -            173   5.8e-45  148.5   0.0   1   1   1.7e-46   6.6e-45  148.3   0.0     1   172     1   183     1   184 0.99 -
+d1dlja2c.2.1.6       -            196 d1f0ya2c.2.1.6.aln   -            173   2.7e-44  146.3   0.0   1   1   7.8e-46   3.1e-44  146.1   0.0     1   172     1   177     1   178 0.99 -
+d2f1ka2c.2.1.6       -            165 d1f0ya2c.2.1.6.aln   -            173   3.1e-44  146.1   0.0   1   1   8.6e-46   3.4e-44  146.0   0.0     1   172     1   163     1   164 0.99 -
+d1lj8a4c.2.1.6       -            286 d1f0ya2c.2.1.6.aln   -            173   1.2e-42  141.0   0.0   1   1   3.7e-44   1.4e-42  140.7   0.0     2   172    31   215    30   216 0.99 -
+d1vpda2c.2.1.6       -            161 d1f0ya2c.2.1.6.aln   -            173     1e-41  137.9   0.7   1   1   2.9e-43   1.1e-41  137.8   0.7     1   171     1   160     1   161 0.99 -
+d2ahra2c.2.1.6       -            152 d1f0ya2c.2.1.6.aln   -            173   1.1e-36  121.6   0.1   1   1     3e-38   1.2e-36  121.5   0.1     1   170     1   152     1   152 0.98 -
+d2i76a2c.2.1.6       -            153 d1f0ya2c.2.1.6.aln   -            173   1.9e-36  120.8   0.0   1   1   5.3e-38   2.1e-36  120.6   0.0     3   170     2   151     1   153 0.98 -
+d1yqga2c.2.1.6       -            152 d1f0ya2c.2.1.6.aln   -            173   9.8e-36  118.5   0.1   1   1   2.8e-37   1.1e-35  118.3   0.1     1   169     1   152     1   152 0.96 -
+d2pv7a2c.2.1.6       -            152 d1f0ya2c.2.1.6.aln   -            173   3.1e-35  116.8   0.0   1   1   8.9e-37   3.5e-35  116.7   0.0     7   172     1   150     1   151 0.99 -
+d1i36a2c.2.1.6       -            152 d1f0ya2c.2.1.6.aln   -            173   7.2e-35  115.6   0.5   1   1     2e-36     8e-35  115.5   0.5     1   171     1   152     1   152 0.99 -
+d1gpja2c.2.1.7       -            159 d1f0ya2c.2.1.6.aln   -            173   5.2e-05   18.4   0.1   1   1   1.7e-06   6.5e-05   18.1   0.1     3    70    27    92    25   126 0.90 -
+d1vm6a3c.2.1.3       -            129 d1f0ya2c.2.1.6.aln   -            173   0.00029   16.0   0.3   1   2   1.6e-05   0.00063   14.9   0.1     1    27     1    28     1    34 0.97 -
+d1vm6a3c.2.1.3       -            129 d1f0ya2c.2.1.6.aln   -            173   0.00029   16.0   0.3   2   2       1.5        61   -1.3   0.0    86    86    65    65    37   112 0.62 -
+d1f0ya2c.2.1.6       -            192 d1f0ya2c.2.1.6.aln   -            173    0.0016   13.6   2.2   1   1   8.8e-05    0.0035   12.5   2.2     2    38     6    39     5   104 0.63 -
+d1cf2o1c.2.1.3       -            172 d1f0ya2c.2.1.6.aln   -            173    0.0038   12.3   0.2   1   2       1.2        48   -1.0   0.0     3    22     4    23     2    33 0.78 -
+d1cf2o1c.2.1.3       -            172 d1f0ya2c.2.1.6.aln   -            173    0.0038   12.3   0.2   2   2   0.00043     0.017   10.2   0.0    21    72    45    88    42    96 0.90 -
+d3l77a_c.2.1.0       -            235 d1f0ya2c.2.1.6.aln   -            173     0.004   12.3   0.1   1   1   0.00013    0.0053   11.9   0.1     1    65     2    61     2   100 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1f0ya2c.2.1.6.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1f0ya2c.2.1.6.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1f0ya2c.2.1.6.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:16 2025
+# [ok]

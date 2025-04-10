@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3bjaa_a.4.5.0       -            139 d3qu3a_a.4.5.0.aln   -            138   9.1e-57  186.6   1.9   1   1   2.3e-58     1e-56  186.5   1.9     1   138     1   138     1   138 0.99 -
+d3jw4a_a.4.5.0       -            137 d3qu3a_a.4.5.0.aln   -            138   2.5e-52  172.3   0.7   1   1   6.2e-54   2.7e-52  172.1   0.7     2   138     1   137     1   137 0.99 -
+d2xiga_a.4.5.0       -            148 d3qu3a_a.4.5.0.aln   -            138   1.7e-51  169.5   4.6   1   1   4.4e-53   1.9e-51  169.4   4.6     1   138     1   146     1   146 0.99 -
+d3k69a_a.4.5.0       -            155 d3qu3a_a.4.5.0.aln   -            138   3.1e-49  162.2   0.0   1   1   7.9e-51   3.5e-49  162.1   0.0     1   138     6   155     6   155 0.99 -
+d3df8a_a.4.5.0       -            109 d3qu3a_a.4.5.0.aln   -            138   1.6e-33  111.3   0.1   1   1   4.1e-35   1.8e-33  111.2   0.1     6   122     2   109     1   109 0.99 -
+d3f8ba_a.4.5.0       -            105 d3qu3a_a.4.5.0.aln   -            138   6.5e-33  109.4   0.5   1   1   1.6e-34   7.1e-33  109.2   0.5     6   122     2   105     1   105 0.99 -
+d3broa1a.4.5.28      -            135 d3qu3a_a.4.5.0.aln   -            138   7.7e-10   34.6   5.9   1   1     2e-11   8.8e-10   34.4   5.9    28   133    26   131     5   135 0.84 -
+d2etha1a.4.5.28      -            140 d3qu3a_a.4.5.0.aln   -            138   1.9e-07   26.8   0.0   1   1   5.1e-09   2.2e-07   26.6   0.0    50   124    49   123    12   128 0.90 -
+d2a61a1a.4.5.28      -            139 d3qu3a_a.4.5.0.aln   -            138   3.6e-07   26.0   0.0   1   1   1.1e-08   4.7e-07   25.6   0.0    61   125    58   122    49   132 0.89 -
+d2fbia1a.4.5.28      -            136 d3qu3a_a.4.5.0.aln   -            138   6.2e-07   25.2   0.1   1   1   1.5e-08   6.7e-07   25.1   0.1    24   134    23   131     7   135 0.84 -
+d1lj9a_a.4.5.28      -            144 d3qu3a_a.4.5.0.aln   -            138     2e-06   23.6   0.5   1   1   5.3e-08   2.3e-06   23.3   0.5    45   136    41   132    22   134 0.86 -
+d3ctaa1a.4.5.28      -             85 d3qu3a_a.4.5.0.aln   -            138   5.9e-06   22.0   0.5   1   1   1.5e-07   6.7e-06   21.9   0.5    32    99     2    70     1    81 0.79 -
+d1jgsa_a.4.5.28      -            138 d3qu3a_a.4.5.0.aln   -            138   6.9e-06   21.8   0.0   1   1   2.3e-07     1e-05   21.2   0.0    64   134    65   136    56   137 0.90 -
+d2fbka1a.4.5.28      -            172 d3qu3a_a.4.5.0.aln   -            138     9e-05   18.2   0.0   1   1   2.7e-06   0.00012   17.8   0.0    53   130    85   162    68   163 0.91 -
+d2fbha1a.4.5.28      -            137 d3qu3a_a.4.5.0.aln   -            138    0.0018   14.0   0.0   1   1   4.7e-05    0.0021   13.8   0.0    46   122    42   118    17   130 0.80 -
+d3echa_a.4.5.28      -            142 d3qu3a_a.4.5.0.aln   -            138    0.0023   13.7   0.0   1   1   6.2e-05    0.0027   13.4   0.0     6   100    12   104     8   138 0.79 -
+d2hr3a1a.4.5.28      -            145 d3qu3a_a.4.5.0.aln   -            138    0.0026   13.5   0.0   1   1   6.7e-05    0.0029   13.3   0.0    45   100    47   102     4   132 0.82 -
+d2fxaa1a.4.5.28      -            162 d3qu3a_a.4.5.0.aln   -            138    0.0038   12.9   0.0   1   1   0.00011     0.005   12.5   0.0    69   105    77   117    39   125 0.83 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3qu3a_a.4.5.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d3qu3a_a.4.5.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3qu3a_a.4.5.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:44 2025
+# [ok]

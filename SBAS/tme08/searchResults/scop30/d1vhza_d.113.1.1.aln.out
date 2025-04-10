@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1g0sa_d.113.1.1     -            209 d1vhza_d.113.1.1.aln -            165   4.4e-47  155.3   1.5   1   1     1e-48   5.2e-47  155.1   1.5     2   164    42   208    41   209 0.99 -
+d2b06a1d.113.1.1     -            155 d1vhza_d.113.1.1.aln -            165     7e-47  154.7   0.0   1   1   1.6e-48   7.7e-47  154.5   0.0    11   163     2   155     1   155 0.98 -
+d1sjya_d.113.1.1     -            158 d1vhza_d.113.1.1.aln -            165   2.5e-46  152.9   0.0   1   1   5.5e-48   2.7e-46  152.8   0.0     7   159     2   156     1   158 0.98 -
+d1jkna_d.113.1.1     -            165 d1vhza_d.113.1.1.aln -            165   1.9e-45  150.0   0.0   1   1   4.2e-47   2.1e-45  149.9   0.0     5   164     2   160     1   161 0.98 -
+d3o69a_d.113.1.1     -            190 d1vhza_d.113.1.1.aln -            165   1.3e-44  147.3   0.1   1   1     3e-46   1.5e-44  147.1   0.1     1   160    29   190    29   190 0.99 -
+d1nqza_d.113.1.1     -            187 d1vhza_d.113.1.1.aln -            165   1.8e-44  146.8   0.0   1   1   4.1e-46     2e-44  146.7   0.0     1   164    16   179    16   180 0.99 -
+d1q33a_d.113.1.1     -            292 d1vhza_d.113.1.1.aln -            165   4.5e-44  145.5   0.1   1   2       1.6        79   -1.6   0.0   101   126    16    41     2    52 0.71 -
+d1q33a_d.113.1.1     -            292 d1vhza_d.113.1.1.aln -            165   4.5e-44  145.5   0.1   2   2   2.3e-45   1.2e-43  144.2   0.0     2   165    98   275    97   275 0.99 -
+d3zr0a_d.113.1.1     -            154 d1vhza_d.113.1.1.aln -            165   3.6e-43  142.6   0.0   1   1     8e-45   3.9e-43  142.5   0.0    16   164     2   149     1   150 0.98 -
+d1v8ya_d.113.1.1     -            158 d1vhza_d.113.1.1.aln -            165   6.6e-42  138.5   0.7   1   1   1.5e-43   7.2e-42  138.4   0.7     3   158    10   157     8   158 0.97 -
+d2fvva1d.113.1.1     -            135 d1vhza_d.113.1.1.aln -            165   4.6e-41  135.8   0.7   1   1     1e-42   5.1e-41  135.6   0.7     5   142     1   134     1   135 0.99 -
+d2azwa1d.113.1.1     -            147 d1vhza_d.113.1.1.aln -            165   5.1e-41  135.6   0.6   1   1   1.1e-42   5.6e-41  135.5   0.6     1   155     1   145     1   147 0.96 -
+d2b0va1d.113.1.1     -            146 d1vhza_d.113.1.1.aln -            165   2.9e-40  133.2   0.0   1   1   6.4e-42   3.1e-40  133.0   0.0    17   160     2   145     1   146 0.98 -
+d1ktga_d.113.1.1     -            137 d1vhza_d.113.1.1.aln -            165   1.2e-39  131.1   0.0   1   1   2.7e-41   1.3e-39  131.0   0.0    13   151     1   136     1   137 0.98 -
+d3a6sa_d.113.1.1     -            129 d1vhza_d.113.1.1.aln -            165   5.2e-38  125.8   0.8   1   1   1.2e-39   5.7e-38  125.7   0.8    16   154     2   128     1   129 0.98 -
+d1k2ea_d.113.1.1     -            152 d1vhza_d.113.1.1.aln -            165   1.2e-36  121.3   0.2   1   1   2.8e-38   1.4e-36  121.2   0.2    20   163     2   147     1   149 0.97 -
+d1vhza_d.113.1.1     -            186 d1vhza_d.113.1.1.aln -            165   1.3e-12   43.2   0.0   1   1   3.4e-14   1.7e-12   42.9   0.0    16   142    47   172    33   184 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1vhza_d.113.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1vhza_d.113.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1vhza_d.113.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:30 2025
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1pvma4d.37.1.1      -            142 d2d4za3d.37.1.1.aln  -            134   7.4e-42  138.1   0.7   1   1     2e-43   8.4e-42  137.9   0.7     2   133     3   130     2   131 0.98 -
+d1o50a3d.37.1.1      -            145 d2d4za3d.37.1.1.aln  -            134   1.2e-38  127.8   1.2   1   1   3.1e-40   1.3e-38  127.6   1.2     2   133     4   144     3   145 0.98 -
+d2yzia1d.37.1.1      -            132 d2d4za3d.37.1.1.aln  -            134   1.5e-38  127.5   0.6   1   1   3.9e-40   1.6e-38  127.3   0.6     2   133     5   130     4   131 0.95 -
+d3ddja1d.37.1.1      -            141 d2d4za3d.37.1.1.aln  -            134   1.6e-38  127.3   7.0   1   1   4.3e-40   1.8e-38  127.2   7.0     2   132     2   133     1   135 0.98 -
+d2yzqa2d.37.1.1      -            122 d2d4za3d.37.1.1.aln  -            134   2.9e-38  126.5   2.1   1   1   7.6e-40   3.2e-38  126.4   2.1     2   133     1   121     1   122 0.97 -
+d2yzqa1d.37.1.1      -            156 d2d4za3d.37.1.1.aln  -            134   5.3e-38  125.6   0.1   1   1   1.5e-39   6.1e-38  125.5   0.1     3   128     5   155     3   156 0.98 -
+d1y5ha3d.37.1.1      -            123 d2d4za3d.37.1.1.aln  -            134   1.4e-37  124.3   0.0   1   1   3.7e-39   1.5e-37  124.2   0.0     3   128     2   122     1   123 0.98 -
+d3ddja2d.37.1.1      -            135 d2d4za3d.37.1.1.aln  -            134   3.1e-37  123.2   0.1   1   1   8.1e-39   3.4e-37  123.0   0.1     2   132     1   134     1   135 0.97 -
+d1vr9a3d.37.1.1      -            121 d2d4za3d.37.1.1.aln  -            134   2.7e-36  120.1   0.1   1   1   7.2e-38     3e-36  120.0   0.1     2   132     1   120     1   121 0.97 -
+d2rc3a1d.37.1.1      -            127 d2d4za3d.37.1.1.aln  -            134   5.3e-36  119.2   2.6   1   1   1.4e-37   5.7e-36  119.1   2.6     2   129     2   126     1   127 0.98 -
+d2nyca1d.37.1.1      -            140 d2d4za3d.37.1.1.aln  -            134   2.7e-35  116.9   0.5   1   1   7.3e-37     3e-35  116.7   0.5     2   129     6   138     5   140 0.98 -
+d2j9la1d.37.1.1      -            169 d2d4za3d.37.1.1.aln  -            134   1.5e-33  111.2   0.2   1   1     4e-35   1.7e-33  111.1   0.2     2   133     6   160     5   161 0.98 -
+d1pbja3d.37.1.1      -            120 d2d4za3d.37.1.1.aln  -            134   4.5e-33  109.7   7.1   1   1   1.2e-34   4.9e-33  109.6   7.1     3   128     1   119     1   120 0.94 -
+d2v8qe2d.37.1.1      -            159 d2d4za3d.37.1.1.aln  -            134   4.7e-33  109.6   0.0   1   1   1.3e-34   5.3e-33  109.5   0.0     2   133    13   157    12   158 0.98 -
+d2riha_d.37.1.1      -            131 d2d4za3d.37.1.1.aln  -            134   7.7e-33  108.9   0.3   1   1   2.1e-34   8.5e-33  108.8   0.3     3   132     2   126     1   128 0.96 -
+d1zfja4d.37.1.1      -            126 d2d4za3d.37.1.1.aln  -            134     2e-32  107.6   0.1   1   1   5.4e-34   2.3e-32  107.4   0.1     8   133     3   121     1   122 0.94 -
+d2ouxa2d.37.1.1      -            127 d2d4za3d.37.1.1.aln  -            134   4.4e-32  106.5   6.9   1   1   1.2e-33   4.8e-32  106.4   6.9     3   133     2   126     1   127 0.96 -
+d2d4za3d.37.1.1      -            161 d2d4za3d.37.1.1.aln  -            134   5.1e-05   18.9   0.0   1   2   0.00038     0.016   10.8   0.0    72   116    11    55     3    72 0.82 -
+d2d4za3d.37.1.1      -            161 d2d4za3d.37.1.1.aln  -            134   5.1e-05   18.9   0.0   2   2    0.0089      0.37    6.4   0.0    14   125   116   156    88   161 0.65 -
+d1khta_c.37.1.1      -            190 d2d4za3d.37.1.1.aln  -            134   0.00047   15.8   1.9   1   2   1.2e-05   0.00051   15.7   0.7     7    92     4    94     2    96 0.87 -
+d1khta_c.37.1.1      -            190 d2d4za3d.37.1.1.aln  -            134   0.00047   15.8   1.9   2   2       9.2   3.8e+02   -3.4   0.0    77    98   110   131   105   136 0.60 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2d4za3d.37.1.1.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d2d4za3d.37.1.1.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d2d4za3d.37.1.1.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:35 2025
+# [ok]

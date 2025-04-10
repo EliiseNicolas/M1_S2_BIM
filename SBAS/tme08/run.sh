@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ALIGNMENT_DIR="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scop95/aln"
-OUTPUT_DIR="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models"
+OUTPUT_DIR="/home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop95"
 
 mkdir -p "$OUTPUT_DIR"
 

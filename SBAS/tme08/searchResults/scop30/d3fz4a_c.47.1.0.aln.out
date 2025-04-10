@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3h93a_c.47.1.0      -            192 d3fz4a_c.47.1.0.aln  -            155   7.9e-54  177.5   0.0   1   1   1.2e-55   9.3e-54  177.2   0.0     1   155     4   159     4   159 1.00 -
+d3feua_c.47.1.0      -            183 d3fz4a_c.47.1.0.aln  -            155   1.2e-53  176.9   0.1   1   1   1.7e-55   1.4e-53  176.7   0.1     1   155     1   157     1   157 0.99 -
+d3c7ma_c.47.1.0      -            195 d3fz4a_c.47.1.0.aln  -            155   1.1e-49  164.1   1.0   1   1   3.2e-51   2.5e-49  162.8   1.0     3   155     1   169     1   169 0.99 -
+d2xhfa_c.47.1.0      -            156 d3fz4a_c.47.1.0.aln  -            155   7.4e-48  158.1   0.0   1   1     1e-49   8.2e-48  157.9   0.0     1   155     3   156     3   156 0.99 -
+d2v1ma_c.47.1.0      -            163 d3fz4a_c.47.1.0.aln  -            155   1.6e-47  157.0   0.0   1   1   2.3e-49   1.8e-47  156.8   0.0     6   155     2   147     1   147 0.99 -
+d3gnja_c.47.1.0      -            111 d3fz4a_c.47.1.0.aln  -            155   6.8e-32  106.2   0.4   1   1   9.4e-34   7.4e-32  106.1   0.4     1   113     3   111     3   111 0.98 -
+d3h79a_c.47.1.0      -            115 d3fz4a_c.47.1.0.aln  -            155   3.1e-31  104.1   0.0   1   1   4.4e-33   3.4e-31  103.9   0.0     1   113     2   115     2   115 0.99 -
+d2hzfa_c.47.1.0      -            110 d3fz4a_c.47.1.0.aln  -            155   4.8e-31  103.4   0.0   1   1   6.7e-33   5.3e-31  103.3   0.0     5   117     1   109     1   110 0.98 -
+d2wcia_c.47.1.0      -            113 d3fz4a_c.47.1.0.aln  -            155   1.7e-30  101.6   0.0   1   1   2.4e-32   1.9e-30  101.5   0.0     6   123     1   113     1   113 0.98 -
+d3qmxa_c.47.1.0      -             99 d3fz4a_c.47.1.0.aln  -            155   1.8e-27   91.8   0.0   1   1   2.5e-29   1.9e-27   91.7   0.0     6   111     2    98     1    99 0.97 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3fz4a_c.47.1.0.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d3fz4a_c.47.1.0.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d3fz4a_c.47.1.0.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:43 2025
+# [ok]

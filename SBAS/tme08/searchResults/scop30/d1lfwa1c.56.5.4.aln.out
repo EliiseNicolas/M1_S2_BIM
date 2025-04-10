@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1r3na1c.56.5.4      -            323 d1lfwa1c.56.5.4.aln  -            286   2.6e-95  314.4   0.0   1   1   4.1e-97     3e-95  314.2   0.0     2   285     9   316     8   317 0.98 -
+d1rtqa_c.56.5.4      -            291 d1lfwa1c.56.5.4.aln  -            286   5.2e-94  310.1   0.6   1   1   8.1e-96   5.8e-94  310.0   0.6     1   285     1   284     1   285 0.99 -
+d1z2la1c.56.5.4      -            294 d1lfwa1c.56.5.4.aln  -            286   8.6e-91  299.6   0.0   1   1   1.3e-92   9.6e-91  299.4   0.0     9   286     2   293     1   293 0.99 -
+d1y7ea2c.56.5.4      -            323 d1lfwa1c.56.5.4.aln  -            286     3e-87  287.9   0.1   1   1   4.8e-89   3.4e-87  287.7   0.1     1   281    14   322    14   323 0.98 -
+d1fnoa4c.56.5.4      -            296 d1lfwa1c.56.5.4.aln  -            286   5.1e-85  280.6   0.0   1   1   7.9e-87   5.6e-85  280.5   0.0     1   285     7   294     7   295 0.99 -
+d1tkja_c.56.5.4      -            277 d1lfwa1c.56.5.4.aln  -            286     1e-83  276.4   0.0   1   1   1.6e-85   1.1e-83  276.2   0.0     2   284     1   274     1   276 0.99 -
+d1y0ya3c.56.5.4      -            256 d1lfwa1c.56.5.4.aln  -            286   6.6e-80  263.8   0.2   1   1     1e-81   7.4e-80  263.7   0.2     7   285     1   255     1   256 0.99 -
+d1cg2a1c.56.5.4      -            277 d1lfwa1c.56.5.4.aln  -            286   1.2e-78  259.7   0.2   1   1   1.9e-80   1.3e-78  259.5   0.2     2   284     5   275     4   277 0.98 -
+d1vgya1c.56.5.4      -            263 d1lfwa1c.56.5.4.aln  -            286     5e-78  257.7   0.0   1   1   7.7e-80   5.5e-78  257.5   0.0     5   283     1   262     1   263 0.99 -
+d2grea2c.56.5.4      -            234 d1lfwa1c.56.5.4.aln  -            286   4.6e-65  215.1   1.9   1   1   7.2e-67   5.2e-65  215.0   1.9     4   285     1   234     1   234 0.99 -
+d1lfwa1c.56.5.4      -            273 d1lfwa1c.56.5.4.aln  -            286   2.4e-07   25.7   0.0   1   2     1e-07   7.2e-06   20.9   0.0    67   147    73   154    63   168 0.88 -
+d1lfwa1c.56.5.4      -            273 d1lfwa1c.56.5.4.aln  -            286   2.4e-07   25.7   0.0   2   2     0.033       2.4    2.8   0.0   226   285   214   271   194   272 0.70 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1lfwa1c.56.5.4.aln.hmm
+# Target file:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/searchResults/scop30/d1lfwa1c.56.5.4.aln.out -E 1 /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/models/scop30/d1lfwa1c.56.5.4.aln.hmm /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08/scop/scop/scopTestSeq.fasta 
+# Current dir:     /home/elise/Documents/M1-BIM/S2/TMEs/SBAS/tme08
+# Date:            Thu Apr 10 10:02:21 2025
+# [ok]

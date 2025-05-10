@@ -3,8 +3,6 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 from mltools import plot_data, plot_frontiere, make_grid, gen_arti
 
-    
-
 class Lineaire(object):
     def __init__(self,loss=perceptron_loss,loss_g=perceptron_grad,max_iter=100,eps=0.01):
         self.max_iter, self.eps = max_iter,eps

@@ -100,6 +100,3 @@ geo_mat, notes = load_poi("bar")
 show_img()
 # Affiche les POIs
 plt.scatter(geo_mat[:,0],geo_mat[:,1],alpha=0.8,s=3)
-
-
-
